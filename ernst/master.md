@@ -5,7 +5,7 @@ haben derzeit Hochkonjunktur.[^1] Das aktuelle Nachdenken über den Wert
 gedruckter Bücher ist eine Reaktion auf den digitalen Wandel, der neue
 Möglichkeiten des digitalen Veröffentlichens mit sich bringt. Diese
 Möglichkeiten verändern die gewachsenen Informationssysteme nachhaltig.
-Schon in der ›Gutenberg-Galaxis‹ haben sich verschiedene
+Schon in der 'Gutenberg-Galaxis' haben sich verschiedene
 Öffentlichkeiten mit eigenen Regelsystemen und unterschiedlichen
 Produktions-, Distributions- und Rezeptionsverfahren ausgeprägt. Die
 jeweiligen gesellschaftlichen Teilsysteme – wie der Literaturbetrieb,
@@ -39,7 +39,7 @@ trägt den Titel *Prof Horkheimer going through his mail* und zeigt ihn
 in seinem Büro mit seiner Sekretärin. An den Wänden stehen Bücherregale,
 auf dem Tisch liegen zahlreiche Papierstapel. Vor der Sekretärin steht
 eine Schreibmaschine. Zunächst berichtet Horkheimer erfreut, dass er das
-geplante Telefonat aus Frankfurt erhalten habe, »und sogar noch das mit
+geplante Telefonat aus Frankfurt erhalten habe, "und sogar noch das mit
 Nürnberg ist auch gekommen, jawohl",[^4] um dann eine Mappe mit
 Briefentwürfen durchzugehen und der Sekretärin einen Brief zu diktieren,
 den diese stenografisch notiert. Sie wird ihn später mit der
@@ -49,7 +49,7 @@ In Abgrenzung von diesen Praxen ermöglicht die elektronische und
 codierte Produktion, Distribution und Rezeption von Informationen eine
 weitaus höhere Intensität, Schnelligkeit und Stabilität der – somit:
 digitalen – Wissenschaftskommunikation. Elektronische Briefe (sog.
-›E-Mails‹), mobilisierte und visualisierte Telefonate (mit Smartphones
+'E-Mails'), mobilisierte und visualisierte Telefonate (mit Smartphones
 oder Diensten wie Skype) oder Kurznachrichten (SMS, Twitter) verdichten
 und beschleunigen die geisteswissenschaftliche Alltagskommunikation in
 bisher ungekannter Weise. Doch nicht nur die Kommunikation selbst
@@ -68,12 +68,12 @@ Erkenntnisproduktion offen zugängig und nachprüfbar sind, um entweder
 kritisiert und modifiziert oder verifiziert und weiter distribuiert zu
 werden. In einem skeptischen Essay zur digitalen Wissenschaftssprache
 bemisst Valentin Groebner folglich Wissenschaftlichkeit an der
-Möglichkeit, »dass ältere Informationen wiederauffindbar gespeichert
+Möglichkeit, "dass ältere Informationen wiederauffindbar gespeichert
 werden, um mit neuen Daten kontrolliert und ergänzt werden zu können. In
 der Praxis bedeutet das den Umgang mit ziemlich großen Mengen an
 Information, mit denen der jeweils neue (oder angeblich neue) Fund
 abgeglichen und eingeordnet werden kann." Die Wissenschaft verfüge somit
-über eine spezifische »Geschichte der Informationsbewirtschaftung",[^5]
+über eine spezifische "Geschichte der Informationsbewirtschaftung",[^5]
 deren schon immer zentrales Problem, welche Informationen wie und wem
 zur Verfügung stehen, sich durch die Möglichkeiten der Digitalisierung
 von Informationen nur anders darstellt.
@@ -93,7 +93,7 @@ der wichtigsten deutschen Forschungsorganisationen (unter anderem
 Wissenschaftsrat, Hochschulrektorenkonferenz, DFG,
 Max-Planck-Gesellschaft) und neue Initiativgruppen einen solchen freien
 Zugriff auf wissenschaftliche Informationen. In der *Göttinger
-Erklärung* heißt es entsprechend offensiv und allgemein: »In einer
+Erklärung* heißt es entsprechend offensiv und allgemein: "In einer
 digitalisierten und vernetzten Informationsgesellschaft muss der Zugang
 zur weltweiten Information für jedermann zu jeder Zeit von jedem Ort für
 Zwecke der Bildung und Wissenschaft sichergestellt werden!"[^7]
@@ -107,14 +107,14 @@ politisches Postulat denn als obligatorisches Fundament einer bereits
 bestehenden wissenschaftlichen Praxis. Das *Working Paper der
 Arbeitsgruppe Digitales Publizieren im Verband Digital Humanities im
 deutschsprachigen Raum* sieht 2016, dem Verbandsziel gemäß,[^8] das
-»Open-Access-Publizieren" als Standardfall. Es gibt zudem den
+"Open-Access-Publizieren" als Standardfall. Es gibt zudem den
 Forschenden Empfehlungen zu den verschiedenen Open-Access-Strategien
 (goldener/grüner Weg), Finanzierungs- bzw. Geschäftsmodellen
 (Author-Pays-Modell, Publikationsfonds, Hybrid-Open-Access,
 Freemium-Modell) und zu rechtlichen Rahmenbedingungen und
 Lizensierungsformen (Open-Content-Lizenzen, Creative Commons).[^9]
 Schließlich fordert es im Sinne einer besseren wissenschaftlichen
-Praxis, dass auch die »Forschungsdaten (Open Research Data),
+Praxis, dass auch die "Forschungsdaten (Open Research Data),
 Zusatzmaterialien (Open Extra Material), Softwareanwendungen (Open
 Source) sowie \[...\] in der Lehre eingesetzte Bildungsressourcen (Open
 Educational Resources)"[^10] offen verfügbar sein sollten.
@@ -122,16 +122,16 @@ Educational Resources)"[^10] offen verfügbar sein sollten.
 *The Vienna Principles der Arbeitsgruppe Open Access and Scholarly
 Communication des Open Access Network Austria* kritisieren ebenfalls
 2016 zunächst eine traditionelle Form der Wissenschaftskommunikation,
-die durch »\[r\]estricted access and collaboration", »\[i\]nefficient
-processes", »\[l\]ack of reproducibility and transparency",
-»\[t\]echnical and legal barriers" und verschiedene »\[i\]ncentives in
+die durch "\[r\]estricted access and collaboration", "\[i\]nefficient
+processes", "\[l\]ack of reproducibility and transparency",
+"\[t\]echnical and legal barriers" und verschiedene "\[i\]ncentives in
 need of improvement" (zersplitterte Veröffentlichungspraxen,
 Begutachtungsverfahren) gekennzeichnet sei.[^11] Im Gegensatz dazu
 stellt die Arbeitsgruppe zwölf Prinzipien auf, die neben den bekannten
-Größen wie »Accessibility" oder »Reproducibility" spezifische digitale
-Arbeitsweisen einfordern. Dazu zählt, »\[to\] foster collaboration and
-participation between researchers and their stakeholders", »\[to\]
-embrace the possibilities of new technology" und »\[to\] provide
+Größen wie "Accessibility" oder "Reproducibility" spezifische digitale
+Arbeitsweisen einfordern. Dazu zählt, "\[to\] foster collaboration and
+participation between researchers and their stakeholders", "\[to\]
+embrace the possibilities of new technology" und "\[to\] provide
 transparent and competent review".[^12]
 
 Diese jüngeren Manifeste bzw. Empfehlungen gehen von etablierten
@@ -145,7 +145,7 @@ Selbstverständnis vieler ForscherInnen als auch mit den traditionellen
 Geschäfts- und Arbeitsmodellen der Wissenschaftsverlage brechen, erhebt
 sich jedoch Widerstand.
 
-### Erkenntnisprozesse wie gedruckt: Das Buch als** ›**magischer Körper**‹ **und die Kritik des Open Access**
+### Erkenntnisprozesse wie gedruckt: Das Buch als** '**magischer Körper**' **und die Kritik des Open Access**
 
 Die Kritik an der zunehmenden politischen und institutionellen Förderung
 von Open-Access-Modellen kulminiert in den Geisteswissenschaften im
@@ -160,24 +160,24 @@ Folgenden genauer analysiert werden.
 
 Der *Heidelberger Appell* verbindet zwei unterschiedliche Probleme,
 nämlich einerseits die auf internationalen Social-Media-Plattformen wie
-Google Books und Youtube begangenen Urheberrechtsverletzungen, die »in
+Google Books und Youtube begangenen Urheberrechtsverletzungen, die "in
 ungeahntem Umfang und ohne strafrechtliche Konsequenzen"[^13]
 stattfänden, und andererseits den nationalen Einsatz der Allianz der
 deutschen Wissenschaftsorganisationen für die Umsetzung von
 Open-Access-Strategien.[^14] Ohne den Begriff des Open Access zu nennen
 oder explizit auf die konkreten Inhalte der *Schwerpunktinitiative
-›Digitale Information‹ der Allianz-Partnerorganisationen*[^15] zu
+'Digitale Information' der Allianz-Partnerorganisationen*[^15] zu
 verweisen, konstatieren die UnterzeichnerInnen, dass die internationalen
-›Raubkopien‹ und die nationalen Open-Access-Initiativen schwere
+'Raubkopien' und die nationalen Open-Access-Initiativen schwere
 Eingriffe in die Freiheit der Wissenschaft und die Selbstbestimmung der
-UrheberInnen vornähmen: »Jeder Zwang, jede Nötigung zur Publikation in
+UrheberInnen vornähmen: "Jeder Zwang, jede Nötigung zur Publikation in
 einer bestimmten Form ist ebenso inakzeptabel wie die politische
 Toleranz gegenüber Raubkopien, wie sie Google derzeit massenhaft
 herstellt."[^16]
 
 Zwar veröffentlicht die Allianz der deutschen
 Wissenschaftsorganisationen schon drei Tage später eine gemeinsame
-Erklärung und beharrt darauf, dass Open Access »\[k\]ein Eingriff in die
+Erklärung und beharrt darauf, dass Open Access "\[k\]ein Eingriff in die
 Publikationsfreiheit" sei.[^17] Dennoch ist der *Heidelberger Appell*
 als diskursives Ereignis ein wichtiger Referenzpunkt für die weiteren
 Debatten.[^18] Daher werden wir uns erstens näher ansehen, welche buch-
@@ -204,22 +204,22 @@ Ausführungen über die Geschichte des Papiers, die schließlich im
 gedruckten Buch gipfelt, stehen in einem deutlichen Kontrast zur
 Ausrufung einer digitalen Gesellschaft. Selbst digitale
 Textverarbeitungsprogramme, konstatiert Müller, griffen noch immer auf
-papierne Symbole zurück: »So raschelt es im elektronischen Papierkorb,
+papierne Symbole zurück: "So raschelt es im elektronischen Papierkorb,
 wenn wir eine Datei löschen, und Scherensymbole bieten das Ausschneiden
 markierten Textes an." Solche Beispiele überhöht Müller zur starken
-These, dass trotz aller digitalen Mediennutzung die ›Digitale
-Gesellschaft‹ noch nicht existiere: »Wir leben, bis auf weiteres, immer
+These, dass trotz aller digitalen Mediennutzung die 'Digitale
+Gesellschaft' noch nicht existiere: "Wir leben, bis auf weiteres, immer
 noch in der Epoche des Papiers."[^19] In dieser Epoche des Papiers
 schwinde nicht die gesellschaftliche Bedeutung des Buches, vielmehr
 werde die Relevanz des einzelnen Druckwerks in einer zunehmend digitalen
 Medienumgebung gesteigert. Gedruckte Bücher, so Müller, seien zwar keine
-wirklichen Unikate, da sie Reproduktionen einer Vorlage seien, aber »es
+wirklichen Unikate, da sie Reproduktionen einer Vorlage seien, aber "es
 könnte sein, daß \[dem gedruckten\] im Kontrast zum elektronischen Buch
 die Aura zuwächst, das Original*format* zu sein."[^20] Dieses an Walter
 Benjamin angelehnte und historisch-technisch inverse Argument greift
 wiederum Hagner auf, indem er – ebenfalls in Abgrenzung von digitalen
-Texten – die »physiognomische Individualität", »Stabilität" und »rechte
-Anordnung" von Büchern preist, die »*für sich selbst* \[existieren\],
+Texten – die "physiognomische Individualität", "Stabilität" und "rechte
+Anordnung" von Büchern preist, die "*für sich selbst* \[existieren\],
 weil sie nicht von einer Sekunde auf die andere gelöscht oder
 manipuliert werden können, und das macht ihre Eigentümlichkeit
 aus."[^21] Hagner überträgt hier den Begriff der Eigentümlichkeit, der
@@ -241,12 +241,12 @@ vorbildliche Buchhandlungen beschreibt, zunächst die Buchhandlung Rieck
 aus Aulendorf (und am Ende des Buchs eine aus Hamburg). Reuß nähert sich
 der Buchhandlung Rieck über Zitate von otl aicher an, der sich an die
 Buchhandlung Rieck als einen Ort des Widerstands im Nationalsozialismus
-erinnert, denn »\[...\] schon ein, zwei bücher können das holz sein, auf
+erinnert, denn "\[...\] schon ein, zwei bücher können das holz sein, auf
 dem man im meer überlebt."[^24] Reuß recherchiert über die Buchhandlung
-Rieck und zitiert eine Quelle, »daß sie nach wie vor eine der
+Rieck und zitiert eine Quelle, "daß sie nach wie vor eine der
 wichtigsten theologischen Buchhandlungen in der Welt sei", abschließend
-bewertet er die Buchhandlung Rieck als eine »kleine
-Provinzbuchhandlung", die allerdings »als dezentraler Ort des
+bewertet er die Buchhandlung Rieck als eine "kleine
+Provinzbuchhandlung", die allerdings "als dezentraler Ort des
 Widerstands" gelten könne.[^25]
 
 Während der Buchhändler Rieck in Jörg Schröders Darstellung schon 1972
@@ -261,11 +261,11 @@ Druckerzeugnissen – auch als performativen Selbstwiderspruch bewerten.
 Reuß’ Vergleiche legen also nahe, dass die digitalen Kräfte, die das
 Medium Buch relativieren, eine faschistische, barbarische Gefahr seien,
 gegen die nur die religiöse Kraft des Mediums Buch als Antidot wirke,
-schließlich sei das Buch ein »*magischer* Quader innerer Sammlung und
+schließlich sei das Buch ein "*magischer* Quader innerer Sammlung und
 nicht einfach ein gleichgültiger, vorübergehender Intermediär eines
-Transfers."[^28] Diese ›magische‹ Qualität des Buches sei gebunden an
+Transfers."[^28] Diese 'magische' Qualität des Buches sei gebunden an
 seine materielle Einmaligkeit, seine ausgewählte Typographie und seinen
-gestalteten Umschlag: »Das Buch bildet *seinen eigenen Kontext* aus, und
+gestalteten Umschlag: "Das Buch bildet *seinen eigenen Kontext* aus, und
 je mehr Parameter der äußeren Gestalt bei seiner Herstellung reflektiert
 wurden, desto adäquater ist in und an ihm *sein* individueller Inhalt
 präsent und wahrnehmbar."[^29]
@@ -273,13 +273,13 @@ präsent und wahrnehmbar."[^29]
 Im Gegensatz zu dieser reflektierten und stabilen Gestaltung eines
 Buches erscheinen für Reuß die digitalen Texte des Computers und vor
 allem des Internets als instabil, kontextlos und profan: Während das
-Buch »eine scharf umrissene Grenze gegenüber ›außen‹" ziehe, seien die
-Online-Leser »immer schon mittendrin in der Welt der Geschäfte, der
-›Kommunikation‹, der Versteigerungen, der ›Freundeskreise‹, der
-Nachrichtenkanäle, der Musik- und Video-›Plattformen‹."[^30] Die mediale
-›Natur‹ digitaler Medien und vor allem des Internets verunmögliche
-folglich Muße und Reflexion, daher setze ›geistige Erfahrung‹ voraus,
-»daß der Stecker gezogen, die Verstrickung ins ›Netz‹ gelöst wird und
+Buch "eine scharf umrissene Grenze gegenüber 'außen'" ziehe, seien die
+Online-Leser "immer schon mittendrin in der Welt der Geschäfte, der
+'Kommunikation', der Versteigerungen, der 'Freundeskreise', der
+Nachrichtenkanäle, der Musik- und Video-'Plattformen'."[^30] Die mediale
+'Natur' digitaler Medien und vor allem des Internets verunmögliche
+folglich Muße und Reflexion, daher setze 'geistige Erfahrung' voraus,
+"daß der Stecker gezogen, die Verstrickung ins 'Netz' gelöst wird und
 man für die notwendige Phase des Atemholens sich aus der
 Reiz-/Reaktionskette der Vernetzten befreit \[...\]."[^31]
 
@@ -290,32 +290,32 @@ Naturwissenschaften mit ihren Experimenten, Tabellen und Statistiken –
 die Geisteswissenschaften pauschal zu rein sprachbasierten
 Wissenschaften (wodurch beispielsweise die Digital Humanities und ihre
 quantitativen Methoden ausgegrenzt werden). In einem Rückgriff auf
-Walter Benjamin erklärt er dann die Sprache zum »Skelett des Gedankens",
+Walter Benjamin erklärt er dann die Sprache zum "Skelett des Gedankens",
 der sich letztlich nur im Buch angemessen formulieren ließe, da nur das
 Buch Schrift, Stil und Gedanken adäquat verschränke. Es sei daher nicht
-erstrebenswert, ›für das Netz zu schreiben‹, sondern »\[e\]s geht darum,
+erstrebenswert, 'für das Netz zu schreiben', sondern "\[e\]s geht darum,
 das Netz zu nutzen, um bessere Texte für das Papier zu schreiben."[^32]
 
 Die zentralen Gegner des Open Access wie Michael Hagner und Roland Reuß
 wollen also viel mehr als nur eine Kritik einer Open Science und der
 Open Scholarship. Sie kämpfen schon seit knapp zwei Dekaden[^33] für das
 medientheoretische Apriori, dass das Buch mehr als ein
-Übertragungsmedium sei, und zwar ein ›Denkkörper‹ (Hagner)
-beziehungsweise ein ›magischer Gegenstand‹ (Reuß), während die
+Übertragungsmedium sei, und zwar ein 'Denkkörper' (Hagner)
+beziehungsweise ein 'magischer Gegenstand' (Reuß), während die
 Online-Medien die Konzentration und Reflexion eher störten denn
-beförderten. Eine solche scharfe Differenzierung von ›sakralem Buch‹
-einerseits und ›profanen Digitalmedien‹ andererseits wird in den neueren
+beförderten. Eine solche scharfe Differenzierung von 'sakralem Buch'
+einerseits und 'profanen Digitalmedien' andererseits wird in den neueren
 Arbeiten der Buchwissenschaft auf nüchterne Weise eingeebnet. Svenja
-Hagenhoff beschreibt beide Seiten neutral als »*Lesemedien*" mit
+Hagenhoff beschreibt beide Seiten neutral als "*Lesemedien*" mit
 unterschiedlichen Eigenschaften, die jedoch in keine Hierarchie zu
 bringen seien. Vielmehr verweist Hagenhoff darauf, dass ein Lesemedium
-»nur ein Element in einem komplexen Kommunikationssystem ist", zu dem
-auch »die Beschaffenheit technischer, organisatorischer und logistischer
+"nur ein Element in einem komplexen Kommunikationssystem ist", zu dem
+auch "die Beschaffenheit technischer, organisatorischer und logistischer
 Infrastrukturen" gehört, weshalb die Wertbestimmung eines Lesemediums
-für sich alleine »eher unnütz" sei.[^34]
+für sich alleine "eher unnütz" sei.[^34]
 
-Die problematische Priorisierung und Sakralisierung des ›magischen
-Erkenntniskörpers Buch‹ durch die Open-Access-Kritiker muss nun aber
+Die problematische Priorisierung und Sakralisierung des 'magischen
+Erkenntniskörpers Buch' durch die Open-Access-Kritiker muss nun aber
 nicht heißen, dass deren Argumente nur vernachlässigbare Scheingefechte
 in einem Medienkrieg seien. Vielmehr kann es sich lohnen, die
 wichtigsten Argumente gegen Open Access zu betrachten, um auch die
@@ -335,17 +335,17 @@ sanktioniert werden, wenn sie ihre Texte nicht offen verfügbar
 machen.[^35] Eine solche staatliche Regulierung des Veröffentlichens
 habe es zuletzt in der höfischen Gesellschaft gegeben.[^36] Vor allem
 stört Hagner, dass die erweiterten Veröffentlichungsmöglichkeiten ihren
-Reiz verlören, »wenn Politiker, Lehr- und Forschungsinstitutionen oder
+Reiz verlören, "wenn Politiker, Lehr- und Forschungsinstitutionen oder
 forschungsfinanzierende Organisationen Zwangsmaßnahmen ergreifen".[^37]
 Reuß gewichtet das Verhältnis der AutorInnen zu ihren Verlagen und
 dieses Betreuungsverhältnis als besonders wichtig für die Produktion und
-Rezeption eines Werks: »Jeder Versuch, auf dieses vertrauensvolle und
+Rezeption eines Werks: "Jeder Versuch, auf dieses vertrauensvolle und
 schützenswerte Verhältnis zwischen Verlag und Autor von außen einen
 dirigistischen Einfluß zu nehmen, zeichnet deshalb auch immer Brutalität
 gegenüber dem Faktum der innigen Beziehung zwischen Urheber und Produkt
 einer geistigen Schöpfung aus."[^38] Im Online-Veröffentlichen wittert
-Reuß den »Tod der wissenschaftlichen Verlagsbranche", aus dem wiederum
-der Tod »des pluralistischen Publizierens"[^39] resultieren werde.
+Reuß den "Tod der wissenschaftlichen Verlagsbranche", aus dem wiederum
+der Tod "des pluralistischen Publizierens"[^39] resultieren werde.
 Diesen Argumenten kann man jedoch entgegnen, dass noch vor wenigen
 Dekaden ein ähnlicher (Karriere-)Druck auf WissenschaftlerInnen lastete,
 auf jeden Fall ihre Texte von Wissenschaftsverlagen drucken und
@@ -361,14 +361,14 @@ Relevanter erscheint Hagners Kritik an der Qualitätssicherungs- und
 Archivierungspraxis von Open-Access-Plattformen, denn tatsächlich wird
 es digital wesentlich einfacher, eine undifferenzierte Masse an
 wissenschaftlichen Veröffentlichungen verfügbar zu machen, weshalb
-Hagner prophezeit, »daß unzählige wissenschaftliche Artikel im Nirwana
+Hagner prophezeit, "daß unzählige wissenschaftliche Artikel im Nirwana
 des Netzes nachhaltiger verschwinden als ihre auf Papier gedruckten
 Vorgänger in den Bibliotheksregalen."[^40] Auch die Qualität von
 Open-Access-Zeitschriften sei meist enttäuschend, weshalb renommierte
 WissenschaftlerInnen in solchen Zeitschriften nicht
 veröffentlichten.[^41] Schließlich ist Reuß natürlich zuzustimmen, dass
-AutorInnen »aus ethischen Gründen \[...\] etwas dagegen haben" können,
-ihre Werke »auf einer durch Werbeeinnahmen finanzierten Plattform
+AutorInnen "aus ethischen Gründen \[...\] etwas dagegen haben" können,
+ihre Werke "auf einer durch Werbeeinnahmen finanzierten Plattform
 wiederzufinden (weil das schon an sich etwas Herabziehendes hat)."[^42]
 Reuß bezieht sich hier auf die Angebote von *GoogleBooks*, aber man kann
 genereller konstatieren, dass viele digitale Veröffentlichungen von
@@ -382,10 +382,10 @@ aufgenommen; zudem gilt es natürlich auch für gedruckte
 Veröffentlichungen.
 
 Reuß beklagt zudem massiv, dass ökonomische Motive zur einer
-›Missachtung‹ der Autorenrechte geführt hätten und Open Access der
-»verzweifelte Befreiungsschlag einer unterfinanzierten
+'Missachtung' der Autorenrechte geführt hätten und Open Access der
+"verzweifelte Befreiungsschlag einer unterfinanzierten
 Bibliothekenszene" sei. Hinter den Geschäftsmodellen des Open Access, so
-Reuß, verbürgen sich »Geschäftsmodelljodler", die »ein unstillbar großes
+Reuß, verbürgen sich "Geschäftsmodelljodler", die "ein unstillbar großes
 Interesse daran haben, mit der Arbeit anderer Geld zu verdienen."[^43]
 Tatsächlich ist es für eine gesellschaftlich und wissenschaftlich
 verantwortungsvolle Praxis des Open Access wichtig, dass die
@@ -395,15 +395,15 @@ Repositorien, nur unzureichend gewährleistet.
 
 Schließlich ruft Hagner noch praktische Probleme von (offenen) digitalen
 wissenschaftlichen Veröffentlichungen auf. Dazu zählt seine Invektive
-gegen Open Data, denn durch die Bereitstellung »von Big Data" ergäben
-sich »gravierende ethische und rechtliche Probleme".[^44] Zudem
+gegen Open Data, denn durch die Bereitstellung "von Big Data" ergäben
+sich "gravierende ethische und rechtliche Probleme".[^44] Zudem
 widersprächen sich international die rechtlichen Vorgaben für
 Open-Access-Publikationen und die Vertragsmodelle der Verlage, weshalb
 konkrete Veröffentlichungen zu absurden Widersprüchen führen
 könnten.[^45] Schließlich verhielten sich die verschiedenen Gruppen, die
 am wissenschaftlichen Buchmarkt partizipieren, also
 WissenschaftlerInnen, Verlage und BibliothekarInnen, höchst
-widersprüchlich: »Eine kontinuierlich wachsende Mehrheit aller
+widersprüchlich: "Eine kontinuierlich wachsende Mehrheit aller
 Wissenschaftler befürwortet OA, ist bei der Umsetzung allerdings eher
 träge. Nur eine kleine Gruppe von OA-Aktivisten unter den
 Wissenschaftlern dringt auf die zwangsweise Durchsetzung eines
@@ -432,7 +432,7 @@ Beispiel in einem Open-Access-Journal. Es kann sein, dass für den
 Prozess der Veröffentlichung, Begutachtung und Einrichtung einer solchen
 Veröffentlichung eine zusätzliche Zahlung an einen Verlag oder eine
 Institution, die die entsprechende Plattform pflegt, notwendig wird.
-Eine solche ›goldene‹ Open Access-Veröffentlichung »erscheint aus
+Eine solche 'goldene' Open Access-Veröffentlichung "erscheint aus
 urheberrechtlicher Sicht vollständig konfliktfrei", so der
 Rechtswissenschaftler Sebastian Krujatz in seiner Arbeit über Open
 Access.[^48]
@@ -460,8 +460,8 @@ Zweitveröffentlichung nach einem Jahr:
 Dieses grundsätzliche Zweitveröffentlichungsrecht gilt seit der
 Einführung des Urheberrechts am 1. Januar 1966 und geht zurück auf den §
 42 des vorherigen Verlagsgesetzes. Mit der Novelle des
-Urheberrechtsgesetzes von 2013 (›Dritter Korb‹) wurde allerdings die
-›öffentliche Zugänglichmachung‹, also die Möglichkeit zur digitalen
+Urheberrechtsgesetzes von 2013 ('Dritter Korb') wurde allerdings die
+'öffentliche Zugänglichmachung', also die Möglichkeit zur digitalen
 Zweitveröffentlichung, explizit ergänzt, außerdem wurde ein zusätzliches
 unabdingbares Zweitveröffentlichungsrecht für Veröffentlichungen von in
 Drittmittelprojekten angestellten WissenschaftlerInnen in Periodika
@@ -477,11 +477,11 @@ Aufsätze gelten würde. Für diese Fälle haben der Börsenverein des
 deutschen Buchhandels und der DHV im Jahre 2000 gemeinsam Vertragsnormen
 für wissenschaftliche Werke vorgelegt, die einseitig zu Gunsten der
 Verlage geklärt werden, wie Krujatz 2012 betont: Diese Vertragsnormen
-»sehen in der Regel eine ausschließliche Nutzungsrechtseinräumung vor,
+"sehen in der Regel eine ausschließliche Nutzungsrechtseinräumung vor,
 welche eine Zweitveröffentlichung des wissenschaftlichen Beitrags durch
 den Urheber oder einen Dritten verbietet." In der Praxis wird diese
 Ausschließlichkeit jedoch nicht immer konsequent durchgesetzt, wie
-Krujatz kontastiert: »Jedoch hat sich in der relevanten internationalen
+Krujatz kontastiert: "Jedoch hat sich in der relevanten internationalen
 Verlagslandschaft eine vielfältige, von den genannten Vertragsnormen
 abweichende Vertragspraxis herausgebildet."[^51]
 
@@ -507,7 +507,7 @@ formulierten, Zusatz zu ergänzen:
 
 > Der Urheber erteilt dem Verlag für die elektronische Publikation nur
 > ein einfaches Nutzungsrecht. Er behält sich vor, das Werk unter eine
-> Open Access-Lizenz, z. B. die ›Digital Peer Publishing License‹ zu
+> Open Access-Lizenz, z. B. die 'Digital Peer Publishing License' zu
 > stellen, die die elektronische Verbreitung gestattet.[^54]
 
 Neben diesen Empfehlungen für künftige Veröffentlichungen definiert
@@ -572,8 +572,8 @@ Die Kritik an Open Access ist jedoch weiterhin intensiv und kulminierte
 2009 im *Heidelberger Appell*. Dieser Beitrag skizzierte
 Diskurspositionen der Kritiker am Beispiel von Michael Hagner, Lothar
 Müller und Roland Reuß und zeigte, dass sie von einer
-medientheoretischen Überhöhung, einer Sakralisierung des ›magischen
-Erkenntniskörpers Buch‹ ausgehen, während sich digitale Medien entweder
+medientheoretischen Überhöhung, einer Sakralisierung des 'magischen
+Erkenntniskörpers Buch' ausgehen, während sich digitale Medien entweder
 noch nicht final durchgesetzt hätten (Müller) oder aber für Erkenntnis-
 und Reflexionsprozesse ungeeignet seien (Hagner, Reuß).
 
@@ -609,7 +609,7 @@ magischen Mythen in Winkel wie Museen und das Unterbewußtsein zu
 drängen. Der gegenwärtige Kampf wird nicht so lange währen. Das digitale
 Denken wird weit schneller siegen." Allerdings weist er darauf hin, dass
 das 20. Jahrhundert auch von einem Aufstand der Bilder gegen die Schrift
-geprägt sei. Daher stellt er die Frage: »Dürfen wir in unvorhersehbarer
+geprägt sei. Daher stellt er die Frage: "Dürfen wir in unvorhersehbarer
 Zukunft mit einem reaktionären Aufstand der verdrängten Texte gegen die
 Computerprogramme rechnen?"[^59] Wie diese Kämpfe aussehen könnten,
 deutet sich in den Debatten um Open Access und das
@@ -644,7 +644,7 @@ Fink 2016, S. 653-667.*[^61]
     [*http://www.textkritik.de/urheberrecht/index.htm*](http://www.textkritik.de/urheberrecht/index.htm)
     \[Stand: 11.11.2016\].
 
-[^3]: ›jackogreene‹: Prof Horkheimer going through his mail (german
+[^3]: 'jackogreene': Prof Horkheimer going through his mail (german
     language), seit dem 4.2.2009 online unter
     [*https://www.youtube.com/watch?v=NsLWJP3ZpTc*](https://www.youtube.com/watch?v=NsLWJP3ZpTc)
     \[Stand: 11.11.2016\], vgl. vor allem 00:00–01:37.
@@ -658,7 +658,7 @@ Fink 2016, S. 653-667.*[^61]
     [*http://www.budapestopenaccessinitiative.org/read*](http://www.budapestopenaccessinitiative.org/read)
     \[Stand: 11.11.2016\].
 
-[^7]: Aktionsbündnis ›Urheberrecht für Bildung und Wissenschaft‹:
+[^7]: Aktionsbündnis 'Urheberrecht für Bildung und Wissenschaft':
     Göttinger Erklärung zum Urheberrecht für Bildung und Wissenschaft
     vom 5. Juli 2004, S. 1, online unter
     [*http://www.urheberrechtsbuendnis.de/GE-Urheberrecht-BuW-Mitgl.pdf*](http://www.urheberrechtsbuendnis.de/GE-Urheberrecht-BuW-Mitgl.pdf)
@@ -668,14 +668,14 @@ Fink 2016, S. 653-667.*[^61]
     \[Stand: 11.11.2016\].
 
 [^8]: Der Verband Digital Humanities im deutschsprachigen Raum
-    formuliert als eine seiner fünf Zielsetzungen, »den freien Zugang
+    formuliert als eine seiner fünf Zielsetzungen, "den freien Zugang
     und die freie Nutzung von Wissensbeständen und Verfahren (Open
     Access, Open Source) zu fördern." Vgl. Digital Humanities im
     deutschsprachigen Raum: DHd-Satzung, online unter
     [*https://dig-hum.de/dhd-satzung*](https://dig-hum.de/dhd-satzung)
     \[Stand: 11.11.2016\].
 
-[^9]: DHd-Arbeitsgruppe »Digitales Publizieren": Workingpaper »Digitales
+[^9]: DHd-Arbeitsgruppe "Digitales Publizieren": Workingpaper "Digitales
     Publizieren", seit dem 1.3.2016 online unter
     [*http://dhd-wp.hab.de/?q=ag-text\#abschnitt5*](http://dhd-wp.hab.de/?q=ag-text#abschnitt5)
     \[Stand: 11.11.2016\]. Hinweis: Der Autor dieses Beitrags hat in der
@@ -707,7 +707,7 @@ Fink 2016, S. 653-667.*[^61]
     \[Stand: 11.11.2016\].
 
 [^15]: Vgl. Allianz der Wissenschaftsorganisationen:
-    Schwerpunktinitiative ›Digitale Information‹ der
+    Schwerpunktinitiative 'Digitale Information' der
     Allianz-Partnerorganisationen, online seit dem 11.06.2008 unter
     [*http://www.wissenschaftsrat.de/download/archiv/Allianz-digitale%20Info.pdf*](http://www.wissenschaftsrat.de/download/archiv/Allianz-digitale%20Info.pdf)
     \[Stand: 11.11.2016\]. Zur Allianz der Wissenschaftsorganisationen
@@ -730,19 +730,9 @@ Fink 2016, S. 653-667.*[^61]
 [^18]: Diese Debatte wurde 2009 bereits in Heft 15 von LIBREAS geführt,
     vgl. dazu die folgenden Beiträge:
 
-    > Uwe Jochum: Der Souverän: In: LIBREAS. Library Ideas, Heft 15
-    > (2009),
-    > [*http://libreas.eu/ausgabe15/texte/006.htm*](http://libreas.eu/ausgabe15/texte/006.htm).
-
-    > Joachim Eberhardt: Wiederholung erzeugt keine Wahrheit. Jochum
-    > schreibt immer noch gegen Open Access. In: LIBREAS. Library Ideas,
-    > Heft 15 (2009),
-    > [*http://libreas.eu/ausgabe15/texte/007.htm*](http://libreas.eu/ausgabe15/texte/007.htm).
-
-    > Joachim Losehand: Moskenstraumen. In: LIBREAS. Library Ideas, Heft
-    > 15 (2009),
-    > [*http://libreas.eu/ausgabe15/texte/008.htm)*](http://libreas.eu/ausgabe15/texte/008.htm))
-    > \[alle Texte: Stand: 11.11.2016\].
+ - Uwe Jochum: Der Souverän: In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/006.htm*](http://libreas.eu/ausgabe15/texte/006.htm).
+ - Joachim Eberhardt: Wiederholung erzeugt keine Wahrheit. Jochum schreibt immer noch gegen Open Access. In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/007.htm*](http://libreas.eu/ausgabe15/texte/007.htm).
+ - Joachim Losehand: Moskenstraumen. In: LIBREAS. Library Ideas, Heft 15 (2009), [*http://libreas.eu/ausgabe15/texte/008.htm)*](http://libreas.eu/ausgabe15/texte/008.htm)) \[alle Texte: Stand: 11.11.2016\].
 
 [^19]: Müller, Weiße Magie (Anm. 2), S. 352.
 
@@ -763,7 +753,7 @@ Fink 2016, S. 653-667.*[^61]
 
 [^25]: Ebd., S. 11.
 
-[^26]: Bei Schröder heißt es u.a.: »Riecks Vorstellung war wohl die: Ich
+[^26]: Bei Schröder heißt es u.a.: "Riecks Vorstellung war wohl die: Ich
     hole mir einen guten Mann, der wird schon gute Sachen machen. Es
     sollten aber gute Sachen sein, die exakt sein altes System und
     dessen Inhalte immer weiter dröselten. Das ging nicht. Und sehr
@@ -778,33 +768,18 @@ Fink 2016, S. 653-667.*[^61]
 [^27]: Um nur ein weiteres Beispiel zu nennen: In einem polemischen
     Debattenbeitrag für die *FAZ* bewertet Reuß ein Interview, das
     Bildungsministerin Johanna Wanka der Zeitung *Die Welt* gab, als
-    »ein schwer goutierbares Ragout aus krud neoliberalen Vorstellungen
-    von Wissenschaftsmärkten (»Monitoring" darf, natürlich, nicht
+    "ein schwer goutierbares Ragout aus krud neoliberalen Vorstellungen
+    von Wissenschaftsmärkten ("Monitoring" darf, natürlich, nicht
     fehlen), virtueller DDR 5.0 (mit Enteignung der geistigen
     Produktion) und Staatsautoritarismus wilhelminischer Anmutung."
     Roland Reuß: Staatsautoritarismus, groß geschrieben. In: Frankfurter
     Allgemeine Zeitung, 28.9.2016, S. N4. Vgl. zu Reuß’ Argumentationen
     und Rhetorik auch seine weiteren Debattenbeiträge, u.a.:
 
-    > Roland Reuß: Open Access. Eine heimliche technokratische
-    > Machtergreifung. In: FAZ, 5.5.2009, online unter
-    > [*http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html*](http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html)
-    > \[Stand: 11.11.2016\];
-
-    > Roland Reuß: Autoren- und Urheberrechte. Eine Kriegserklärung an
-    > das Buch. In: FAZ, 13.10.2015, online unter
-    > [*http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html*](http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html)
-    > \[Stand: 11.11.2016\];
-
-    > Roland Reuß: Open Access. Der Geist gehört dem Staat. In: FAZ,
-    > 30.12.2015, online unter
-    > [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html)
-    > \[Stand: 11.11.2016\];
-
-    > Roland Reuß: Reform des Urheberrechts. Was freie Autoren brauchen.
-    > In: FAZ, 13.4.2016, online unter
-    > [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html)
-    > \[Stand: 11.11.2016\].
+ - Roland Reuß: Open Access. Eine heimliche technokratische Machtergreifung. In: FAZ, 5.5.2009, online unter [*http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html*](http://www.faz.net/aktuell/feuilleton/debatten/open-access-eine-heimliche-technokratische-machtergreifung-1775488.html) \[Stand: 11.11.2016\];
+ - Roland Reuß: Autoren- und Urheberrechte. Eine Kriegserklärung an das Buch. In: FAZ, 13.10.2015, online unter [*http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html*](http://www.faz.net/aktuell/feuilleton/debatten/roland-reuss-ueber-autoren-und-urheberrechte-13852733.html) \[Stand: 11.11.2016\];
+ - Roland Reuß: Open Access. Der Geist gehört dem Staat. In: FAZ, 30.12.2015, online unter [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/baden-wuerttemberg-entrechtet-seine-wissenschaftlichen-autoren-13988149.html) \[Stand: 11.11.2016\];
+ - Roland Reuß: Reform des Urheberrechts. Was freie Autoren brauchen. In: FAZ, 13.4.2016, online unter [*http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html*](http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/urheberrecht-freiheit-fuer-die-wissenschaft-14173320.html) \[Stand: 11.11.2016\].
 
     Vgl. u.a. Hagner, Zur Sache des Buches (Anm. 2), S. 92.
 
@@ -819,10 +794,10 @@ Fink 2016, S. 653-667.*[^61]
 [^32]: Hagner, Zur Sache des Buches (Anm. 2), S. 247.
 
 [^33]: Richard Kämmerlings verweist schon 1998 in einem Konferenzbericht
-    darauf, dass Roland Reuß auf »die praktischen Probleme einer
+    darauf, dass Roland Reuß auf "die praktischen Probleme einer
     Online-Edition" hingewiesen habe und auf das grundsätzliche Problem,
-    dass die »im Netz verwendeten Sprachen \[...\] keine ›standgenaue
-    Übertragung‹ von Dokumenten \[ermöglichen\], da je nach Einstellung
+    dass die "im Netz verwendeten Sprachen \[...\] keine 'standgenaue
+    Übertragung' von Dokumenten \[ermöglichen\], da je nach Einstellung
     des Browsers Texte unterschiedlich dargestellt werden. Als Medium
     für wissenschaftliche Editionen sei das Buch unentbehrlich". Vgl.
     Richard Kämmerlings: Lesesaal, Gedächtnisort, Datenraum. Der
@@ -862,7 +837,7 @@ Fink 2016, S. 653-667.*[^61]
 [^46]: Ebd., S. 121.
 
 [^47]: Teilweise wird auch noch ein dritter, der *graue Weg* genannt.
-    Dieser Begriff soll die Veröffentlichung sog. ›grauer Literatur‹ im
+    Dieser Begriff soll die Veröffentlichung sog. 'grauer Literatur' im
     Sinne des Open Access bezeichnen, er ist jedoch für unseren
     Erkenntnisgang nicht relevant.
 
@@ -911,11 +886,11 @@ Fink 2016, S. 653-667.*[^61]
     entweder in einem Verlagsvertrag dem Verlag das ausschließliche
     Nutzungsrecht übertragen hatten oder aber nicht mehr genau wussten,
     ob ein solcher Verlagsvertrag vorliegt.
-
+    
     Der Grundtext der Emails an die Verlage wurde mit dem iRights.Lab
     abgestimmt und liest sich wie folgt: Betreff: Zweitveröffentlichung
     meines Aufsatzes // Sehr geehrte Damen und Herren, // im Jahr \[X\]
-    erschien bei Ihnen mein Aufsatz »\[X\]" in dem Sammelband »\[X\]"
+    erschien bei Ihnen mein Aufsatz "\[X\]" in dem Sammelband "\[X\]"
     (hrsg. von \[X\]). / Wie Sie sicherlich wissen, ist es für
     Nachwuchswissenschaftlerinnen und -wissenschaftler inzwischen
     zumindest faktisch (und teils sogar rechtlich) obligatorisch,
