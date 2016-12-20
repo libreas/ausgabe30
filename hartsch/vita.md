@@ -1,1 +1,2 @@
+---
 **Andreas Hartsch** (MA L.I.S.) ist Bibliothekar in der Spezialbibliothek zur Geschichtswissenschaft des Deutschen Historischen Instituts Paris. Interessenschwerpunkte in Kulturwissenschaften, Medientheorie, Informationswissenschaft. Studium in Hannover, Stuttgart und Köln. Als Bibliothekar zuvor tätig an der Universitätsbibliothek Heidelberg.
