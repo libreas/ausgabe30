@@ -54,7 +54,7 @@ Nachdenken über ein Phänomen, das zu einer Art von unauffälligem
 Residuat im steten Wandel ohne Aufmerksamkeitspotential geworden ist,
 das Hybridkonzept, kein leichtes Unterfangen, aber vielleicht ein
 durchaus notwendiges darstellt. Dabei hat ein weitgreifendes Verständnis
-des Hybridbegriffs durchaus das Potenzial, umfassend alle Formen und
+des Hybridbegriffs durchaus das Potential, umfassend alle Formen und
 Begegnungsräume analoger Herkunftswelten mit Digitalisierung abzudecken
 und die Normalität ihrer symbiotischen Beziehung aufzuzeigen.
 
@@ -1341,7 +1341,7 @@ bleiben sollte.[^149]
 
 Zum Zweiten verweist sie auf die Massendatenhaltung (Big Data als
 tertiäre Medien). Diese Massendaten, so wird immer deutlicher, enthalten
-ein noch nicht ausgelotetes Potenzial an Latenz. Allein auf Grund ihrer
+ein noch nicht ausgelotetes Potential an Latenz. Allein auf Grund ihrer
 Quantität erlangen sie sozialstatistisch eine nie vorher gekannte
 Relevanz, die quasi zwangsläufig zu qualitativen Aussagen tendiert.
 Hinzu kommt ihr schier unbegrenztes Korrelationspotenzial mit Hilfe von
