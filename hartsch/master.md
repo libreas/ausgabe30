@@ -67,8 +67,8 @@ Beschränkung dieses Versuches einer Diskursanalyse.
 
 Ausgangspunkt der Erkundungen ist der Typ der wissenschaftlichen
 Bibliothek im Bereich der Geistes- und Kulturwissenschaften. Der Fokus
-der Überlegungen liegt auf diesem Bibliothekstyp. Allgemeine Aussagen zu
-der Bibliothek als solcher, als kultureller Institution werden nur
+der Überlegungen liegt auf diesem Bibliothekstyp. Allgemeine Aussagen zur
+Bibliothek als solcher, als kultureller Institution werden nur
 vereinzelt getroffen. Eine mangelnde Zielansprache des Bibliothekstyps
 widerfährt oft in Fachbeiträgen, sei es, dass gar nicht präzisiert wird,
 von welchem Bibliothekstyp gesprochen wird, sei es, dass je nach
@@ -169,7 +169,7 @@ Hartmut Rosa (2005) lieferte in seiner wichtigen
 Habilitationsschrift[^24] eine sehr umfassende zeitsoziologische
 Untersuchung des oben erwähnten "Akzelerationismus"[^25], für den auch
 er die Digitalisierung als gravierenden Beschleunigungsimpuls seit den
-90-er Jahren ausmacht:
+90er Jahren ausmacht:
 
 > "Meine heuristisch leitende Hypothese ist \[…\] die Vermutung, *dass
 > die in der Moderne konstitutiv angelegte soziale Beschleunigung in der
@@ -339,7 +339,7 @@ Hauptgründe für die Allgegenwart der Klagen von Informationsflut, dem
 Overload der Informationskanäle, der "Konfrontation mit beständiger
 Überkomplexität"[^50] vermuten.
 
-Tim Cole (2015, Internetexpert) bilanziert die aktuelle Situation:
+Tim Cole (2015, Internetexperte) bilanziert die aktuelle Situation:
 
 > "Wenn sich \[…\] das, was wir 'Wirklichkeit' nennen, so fundamental
 > wandelt, dass wir unsere Lebensverhältnisse neu daran anpassen müssen,
@@ -369,7 +369,7 @@ allen Bereichen des Alltags angemessen reflektieren zu können.[^53]
 Das Editorial im "Züricher Jahrbuch für Wissensgesellschaft 2013"
 konstatiert: "*Big data* ist in den Geisteswissenschaften angekommen.
 Nachdem diese in den letzten Jahrzehnten mit einigen *turns*[^54]
-konfrontiert waren, haben wir es nun mit dem d*igital turn* zu tun, auch
+konfrontiert waren, haben wir es nun mit dem *digital turn* zu tun, auch
 wenn es noch reichlich unklar ist, was man sich darunter vorstellen
 soll."[^55]
 
@@ -432,7 +432,7 @@ Vordenkern der digitalen Revolution gefolgt werden:
 > etwas, was schon irgendwie stimmen werde, im abstrakten Sinn."[^61]
 
 Es ist demnach wenig sinnvoll, weiter als bis zu der breitenwirksamen
-Phase des Internets Mitte der 90-iger Jahre zurückzuschauen.
+Phase des Internets Mitte der 90er Jahre zurückzuschauen.
 
 ### Dauerkonzept "Hybridbibliothek"?
 
@@ -494,11 +494,11 @@ und wirklich auf dem Laufenden?"[^69] Und Bibliothekare sind permanent
 beunruhigt und sehen sich ständig vor der Notwendigkeit einer
 Neupositionierung: "\[…\] eine nachhaltige Informationsinfrastruktur war
 noch nie so nötig wie jetzt!"[^70], konstatiert Elmar Mittler (2014),
-der selber seit den 70-er Jahren des letzten Jahrhunderts an eben dieser
+der selber seit den 70er Jahren des letzten Jahrhunderts an eben dieser
 Infrastruktur maßgeblich mit konstruiert hat.
 
 Wenn diese Infrastruktur sich je etabliert hatte, wie hoch war ihre
-Halbwert-, besser Verfallszeit, wenn jetzt erneut "nachhaltige
+Halbwerts-, besser Verfallszeit, wenn jetzt erneut "nachhaltige
 Infrastruktur" notwendig ist wie nie? Und was wäre unter
 'Nachhaltigkeit' in einem Kontext ständigen Wandels zu verstehen? Welche
 Bestände gälte es zu bewahren? Welche Migrationsstrategien zu neuen
