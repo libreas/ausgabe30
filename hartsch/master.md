@@ -29,7 +29,7 @@ Verstetigter Wandel und steigendes Tempo als Konstanten der
 Modernisierung verbinden sich zudem mit einer Vorwegnahme des
 vermeintlich Kommenden, wie sie Uwe Jochum (2007) in seiner "Kleinen
 Bibliotheksgeschichte", zu recht kritisch, vermerkt[^8]. Sie spuke schon
-seit den 1970er Jahren als implizites Telos[^9] durch die
+seit den 70er Jahren als implizites Telos[^9] durch die
 Bibliotheksgeschichte.
 
 Gegenstand und Vision dieses Telos ist jene vorauseilende Vorwegnahme
@@ -410,7 +410,7 @@ digitaler Medien im Rahmen eines umfassenden Hybridansatzes gegenüber
 der Flut der Literatur ein Selektionskriterium zu finden, bietet sich
 die Lebenswirklichkeit und Empirie der Autoren selbst gegenüber der
 elektronischen Vernetzungstechnologie als valides Kriterium an. Diese
-Empirie ist vor Mitte der 1990er Jahre eine andere und mit Rücksicht auf
+Empirie ist vor Mitte der 90er Jahre eine andere und mit Rücksicht auf
 die Innovationsdynamik der Computertechnologie 2015/2016 nochmals
 dramatisch anders.
 
@@ -531,7 +531,7 @@ Begrifflichkeit, mit der Bibliotheken ihre Positionierung zwischen der
 "gedruckten Welt" und der "all-digital-world"[^72] benennen könnten. Ein
 besonderer Akzent liegt dabei oft auf dem Evolutiven, damit aber auch
 auf dem bereits zitierten Telos dieser intermediären
-Standortbestimmungen. Denn sind Bibliotheken zu 100% digital (mit oder
+Standortbestimmungen. Denn sind Bibliotheken zu 100 Prozent digital (mit oder
 ohne eigenen "Standort"), heißen sie ohne Anführungszeichen Virtuelle
 Bibliothek, E-Bibliothek oder Digitale Bibliothek.
 
@@ -542,11 +542,11 @@ Systematisch ausgearbeitet wurde dieser Begriff zuerst von Stuart A.
 Sutton, Professor an der School of Library and Information Science in
 San Jose, CA, USA, 1996.[^74] In seinem "Library Type Continuum" stellt
 er graphisch die Entwicklung von der traditionellen hin zur digitalen
-Bibliothek als unumgänglich dar: "The figure denotes four types of
-libraries on a continuum running from the traditional to the
-digital."[^75] Die vier Entwicklungsstufen "traditionell",
-"automatisiert", "hybrid" und "digital" werden von ihm jeweils kurz
-skizziert. "Type III The Hybrid Library" ist für Sutton ganz Übergang:
+Bibliothek als unumgänglich dar: "The figure denotes four types of libraries 
+on a continuum running from the traditional to the digital."[^75] 
+Die vier Entwicklungsstufen "traditionell","automatisiert", "hybrid" und
+"digital" werden von ihm jeweils kurz skizziert. 
+"Type III The Hybrid Library" ist für Sutton ganz Übergang:
 "\[…\] the balance of print and digital meta-information leans
 increasingly toward the digital.”[^76] Die Endstation "Digital Library”
 hat die beunruhigenden Charakteristika des Virtuellen: "With Type IV
@@ -578,12 +578,12 @@ Bibliotheksdirektoren aus 1998[^82] wird auch dies bereits vermerkt:
 > libraries had existed in all but name before the projects started. The
 > only difference now is that a phrase has been coined. There are lots
 > of versions of hybrid libraries in existence, but they are just not
-> called hybrid libraries.”[^83]
+> called hybrid libraries."[^83]
 
 Kempf ergänzt mit etwas dunkel verklärtem Unterton: "Unabhängig vom
 Bibliothekstyp und den jeweiligen lokalen Gegebenheiten kann man die
 Aussage wagen, die 'hybride Bibliothek’ wird konsequent nutzerorientiert
-oder gar nicht mehr sein.”[^84]
+oder gar nicht mehr sein."[^84]
 
 Gerhard Hacker (2005) resümiert dieses Auf-der-Stelle-treten nach 10
 Jahren: "Seit Beginn der Diskussion ist \[…\] offen, \[…\] ob die Idee
@@ -685,20 +685,20 @@ Peter Haber (2010) hatte richtig erkannt, dass der analoge Wissensraum
 allmählich ins Hintertreffen zu geraten drohe,[^95] was
 Verdrängungsszenarien Nahrung gäbe.
 
-Die eher unglückliche Suche nach einer neuen Benennungen für eine
+Die eher unglückliche Suche nach einer neuen Benennung für eine
 Traditionseinrichtung, die technikaffin, modern und medienintegrativ
 auch das Aufkommen angeblich 'körperloser' Medien begleitet, zeigt die
 weiter oben bereits vermutete Unsicherheit im Selbstverständnis und bei
 der klaren Positionierung von Bibliotheken als dauerhafte physische
 Institutionen, denen Hybridität, "Mischverhältnisse", genuin aneignet.
 
-Wie unglücklich eine Merkmalshervorhebung mittels des Begriffes "Hybrid"
+Wie unglücklich eine Merkmalshervorhebung mittels des Begriffes "hybrid"
 für Bibliotheken in multimedialen Zeiten ist, wird deutlich in den
 kommunikationstheoretischen Überlegungen von Christina Schachtner und
 Nicole Duller (2014). Die Autorinnen verwenden den Begriff gerade nicht
 zur Charakterisierung analogmedialer und digitalmedialer
 Begegnungsräume, sondern für das "hybride" Kommunikationspotential von
-Digitalmedien selbst:
+digitalen Medien selbst:
 
 > "Die Unterscheidung zwischen diskursiver und präsentativer Symbolik
 > eignet sich dazu, auch den Bedeutungsgehalt Digitaler Medien zu
@@ -746,11 +746,11 @@ Mediensystematik (1972) von Harry Pross.
 
 Dabei wird im Hintergrund hier von der Idee einer Medienevolution
 ausgegangen, wie sie Rudolf Stöber in seiner Mediengeschichte (2013)
-vorgestellt hat.[^97]
+vorstellte.[^97]
 
 Eine medienevolutionäre Annäherung an das Thema erscheint schon deshalb
 angemessen, weil seit dem Aufkommen des "Hybridkonzeptes" Mitte der
-1990-er Jahre und seiner Verstetigung im Bereich der
+90er Jahre und seiner Verstetigung im Bereich der
 Geisteswissenschaften seit 20 Jahren eigentlich kaum mehr von
 revolutionärem Umbruch gesprochen werden kann. Das analoge Buch erfüllt
 beharrlich und relativ unspektakulär in seinem Wirtschaftssegment und
@@ -782,7 +782,7 @@ normal galt – etwa dass man ein Buch physisch in der Bibliothek abholen
 muss –, inzwischen als unnötig kompliziert erfahren."[^99]
 
 Neue Medien entstehen, so die Hypothese hier, aus Unzulänglichkeiten
-Alter Medien oder auf Grund spezifisch neuer Entwicklungen,
+Alter Medien oder aufgrund spezifisch neuer Entwicklungen,
 gesellschaftlicher Bedürfnisse und technischer Neuerungen. Dieser
 evolutionär zu betrachtende Prozess führt zu technologiegestützten
 Übernahmen von Funktionen durch Neue Medien. Dies kann zu einer
@@ -872,13 +872,13 @@ vermeiden. Beim Aufkommen von Mikrofiches und Mikrofilm ohne allzu
 großes Aufmerksamkeitspotential hat keine Bibliothek mit dem Gedanken
 gespielt, sich Mikrobibliothek zu nennen. Gerät nun der Mikrofiche in
 Vergessenheit, gerät auch die Bibliothek in Vergessenheit? Verschwindet
-die Videokassette, verschwindet auch die Bibliothek usf.? Digitalisieren
+die Videokassette, verschwindet auch die Bibliothek undsofort? Digitalisieren
 sich Formen des "Lesens" und werden mobil und ortlos, digitalisiert sich
 auch die Bibliothek und wird virtuell und fluide?
 
 Im Folgenden wird dafür plädiert, Funktionsverschiebung nur auf der
-medialen Ebene und im Vergleich der Medien untereinander in den Blick zu
-nehmen. *Hier liegt tatsächlich der Kern der Hybridproblematik. Welche
+medialen Ebene und im Vergleich der Medien untereinander zu betrachten.
+*Hier liegt tatsächlich der Kern der Hybridproblematik. Welche
 Funktionen können oder müssen innerhalb der geisteswissenschaftlichen
 Forschung dem Digitalmedium bzw. dem Analogmedium zugeordnet bleiben, wo
 sind sie austauschbar, wo kann man Alleinstellungsmerkmale ausmachen?*
@@ -906,11 +906,11 @@ Substitutionslogiken greifen zu kurz; vielmehr geht es um ein
 Bewusstsein je medienspezifischer Möglichkeiten und Grenzen."[^107]
 
 Es ist in diesem Punkt nicht uninteressant zu beobachten, wie von Hard-
-und Softwareseite aus mimetische Anstrengungen unternommen werden, um
+und Softwareseite aus, mimetische Anstrengungen unternommen werden, um
 das analoge Buch zu suggerieren. Man denke an die Versuche zur
 Reduzierung des "Selbstleuchtens"[^108] der Digitaltexte, die visuelle
 und akustische Imitation der "Blätterfunktion", die Digitalwerkzeuge für
-Textmarkierung oder Marginalien usw.[^109]
+Textmarkierung oder Marginalien und s weiter.[^109]
 
 Zwecks Verdeutlichung der technisch unterschiedlichen Herkunftswelten
 kann hier das unterschiedliche Funktionieren eines vergleichbaren
@@ -1004,7 +1004,7 @@ Wissensarbeit zunehmend wieder geleistet wird.
 
 Erst hier kommt dann auch wieder richtig die Institution Bibliothek ins
 Spiel mit ihren "Strategiebausteinen" Lernort, Makerspace,
-Wissenschaftssalon oder was da in den letzten Jahren, teils als
+Wissenschaftssalon oder alles das, was in den letzten Jahren, teils als
 Resultate konzeptionellen Driftens, auch immer in Vorschlag gebracht
 wurde. Selbst die Idee der barocken Kunst- und Wunderkammer wurde jüngst
 von Achim Bonte (2015, SLUB Dresden) wiederbelebt.[^114]
@@ -1083,7 +1083,7 @@ v. Chr.) oder jedes jahrhundertealte Druckwerk. Das "Anschalten" und
 Auslesen des "Device" (im Sinne von Daniel J. Boorstin, siehe Fußnote
 31) erfolgt durch 'In-Augenschein-nehmen'.
 
-Das e-book beziehungsweise jedes digitale Medium und sein
+Das E-Book beziehungsweise jedes digitale Medium und sein
 Kommunikationsangebot ist technikvermittelt auf Sender- und
 Empfängerseite. Damit gehört alles Digitale in die Klasse der tertiären,
 doppelseitig technisch vermittelten Medien.
