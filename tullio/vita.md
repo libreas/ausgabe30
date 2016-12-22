@@ -1,0 +1,4 @@
+---
+**Fabio Tullio** hat Soziologie und Wirtschaftsgeographie an der Universität Duisburg-Essen studiert. Während seines Studiums hat er sechs Jahre als studentischer Mitarbeiter in der Universitätsbibliothek am Campus Duisburg gearbeitet. Derzeit studiert er Bibliotheks- und Informationswissenschaft sowie Informatik an der Humboldt Universität zu Berlin. 
+
+Kontakt: fabio.tullio@student.hu-berlin.de.
