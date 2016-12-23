@@ -8,12 +8,13 @@ in Projektgruppen bestimmte Themenfelder. Das Ergebnis einer der
 Projektgruppen soll in diesem Beitrag vorgestellt werden. Die
 Zielsetzung bestand darin, die verschiedenen Varianten des Open Access,
 also den freien Zugang zu wissenschaftlichen Volltexten, in Abwägung
-ihrer jeweiligen Vor- und Nachteile darzustellen. Den Ausgangspunkt
-bildete ein fiktives Publikationsszenario aus den Geisteswissenschaften.
-In dem Szenario geht es um einen Herausgeber eines Printjournals,
-welcher an der Humboldt Universität zu Berlin arbeitet. Er ist in der
-Wissenschaftsgemeinschaft sehr aktiv und hat eine erhebliche Reputation.
-Seit längerem wünscht er sich mehr Offenheit gegenüber dem
+ihrer jeweiligen Vor- und Nachteile darzustellen. 
+
+Den Ausgangspunkt bildete ein fiktives Publikationsszenario aus 
+den Geisteswissenschaften. In dem Szenario geht es um einen Herausgeber 
+eines Printjournals, welcher an der Humboldt Universität zu Berlin arbeitet.
+Dieser ist in der Wissenschaftsgemeinschaft sehr aktiv und hat eine erhebliche 
+Reputation. Seit längerem wünscht er sich mehr Offenheit gegenüber dem
 Open-Access-Verfahren und eine effizientere Qualitätssicherung. Letztere
 sollte idealerweise als Peer-Review, statt wie bisher mittels Editorial
 Review, durchgeführt werden. Einen größeren finanziellen und
@@ -38,7 +39,7 @@ unterstützen, fordert es aber de facto vom Herausgeber ein. Der
 bisherige Verlag zeigt sich diesbezüglich offener. Beide Verlage
 bestehen zudem auf die Weiterführung der Printausgabe.
 
-Aus dem Szenario ergaben sich folgende Leitfragen:
+Aus diesem Szenario ergaben sich folgende Leitfragen:
 
 1.  Soll der Herausgeber bei seinem alten Verlag bleiben und weiter eine
     Printausgabe produzieren?
@@ -80,17 +81,18 @@ Suchmaschinen, wie die Bielefeld Academic Search Engine
 Access Journals (DOAJ) sind spezialisiert auf das
 Indexieren von Open-Access-Dokumenten. Durch die zunehmende Verbreitung
 und Sichtbarmachung von Open-Access-Informationen können diese vermehrt
-genutzt und weiterverwendet werden. Die freie Verfügbarkeit von
-Informationen fördert auch die ländergrenzen- und fachübergreifende
-Zusammenarbeit. Auch Staaten, in denen weniger Geld in die Forschung
-investiert wird oder werden kann, erhalten so Zugriffsmöglichkeiten auf
-relevante Informationen und bereits vorhandenes Wissen. Schließlich kann
-auch der Forschungsprozess beschleunigt werden, weil Ergebnisse nicht
-nur schneller publiziert, sondern Dokumente zum selben Zeitpunkt von
-mehreren Personen bearbeitet oder eingesehen werden können. Zweifel am
-Open Access entstehen häufig durch eine Unsicherheit im Umgang mit dem
-Urheberrecht sowie durch Vorbehalte gegenüber der Qualität und der
-Langzeitarchivierung der Dokumente. Nur mit der richtigen Archivierung
+genutzt und weiterverwendet werden. 
+
+Die freie Verfügbarkeit von Informationen fördert auch die 
+ländergrenzen- und fachübergreifende Zusammenarbeit. Auch Staaten, 
+in denen weniger Geld in die Forschung investiert wird oder werden kann, 
+erhalten so Zugriffsmöglichkeiten auf relevante Informationen und bereits 
+vorhandenes Wissen. Schließlich kann auch der Forschungsprozess beschleunigt
+werden, weil Ergebnisse nicht nur schneller publiziert, sondern Dokumente 
+zum selben Zeitpunkt von mehreren Personen bearbeitet oder eingesehen werden 
+können. Zweifel am Open Access entstehen häufig durch eine Unsicherheit im 
+Umgang mit dem Urheberrecht sowie durch Vorbehalte gegenüber der Qualität 
+und der Langzeitarchivierung der Dokumente. Nur mit der richtigen Archivierung
 von Informationen im Internet auf entsprechenden Archivservern kann eine
 langfristige Erhaltung und Verfügbarkeit der Informationen gewährleistet
 werden (Georg-August-Universität Göttingen. Niedersächsische Staats- und
@@ -120,11 +122,10 @@ Verlages hier nur um eine vertragsrechtliche Änderung handelt, wäre
 diese Variante besonders kostengünstig, da lediglich eine entsprechende
 Klausel in den Autorenverträgen angepasst werden müsste.
 
-Konkret bedeutet dies, dass in
-der Zeitschrift veröffentlichte Artikel als elektronische Dokumente
-archiviert und so kostenfrei öffentlich verfügbar gemacht werden können.
-Prinzipiell sind hier drei Varianten möglich: Das Individual-, das
-Institutional- oder das Central-Self-Archiving. Beim
+Konkret bedeutet dies, dass in der Zeitschrift veröffentlichte Artikel 
+als elektronische Dokumente archiviert und so kostenfrei öffentlich 
+verfügbar gemacht werden können. Prinzipiell sind hier drei Varianten möglich: 
+Das Individual-, das Institutional- oder das Central-Self-Archiving. Beim
 Individual-Self-Archiving erfolgt die Archivierung und Bereitstellung
 des Artikels durch den Autor, zum Beispiel auf einer privaten Homepage.
 Das Institutional-Self-Archiving meint die Archivierung auf einem
@@ -150,15 +151,14 @@ Herausgeber muss zudem - bestenfalls in Absprache mit den Autoren und
 dem Verlag - entscheiden, auf welcher Art Repositorium die Artikel
 veröffentlicht werden sollen. Mit den Verantwortlichen des
 institutionellen Repositoriums der Humboldt-Universität zu Berlin, dem
-edoc-Server, wäre zu klären, ob eine
-Veröffentlichung von Artikeln auch dann möglich ist, wenn die
-Autorenschaft oder Co-Autorschaft nicht bei einem Angehörigen der
-Humboldt-Universität liegt (vgl. AG Elektronisches Publizieren 2014).
-Sollte dem nicht so sein, bliebe als Alternative die Zugänglichmachung
-über ein institutionelles Repositorium. Für sehr viele Fachgebiete
-existiert in Deutschland zumindest ein spezifisches Repositorium, das
-beispielsweise mithilfe des Registry of Open Access Repositories
-(ROAR) oder dem Directory of Open Access
+edoc-Server, wäre zu klären, ob eine Veröffentlichung von Artikeln auch 
+dann möglich ist, wenn die Autorenschaft oder Co-Autorschaft nicht bei 
+einem Angehörigen der Humboldt-Universität liegt (vgl. AG Elektronisches 
+Publizieren 2014). Sollte dem nicht so sein, bliebe als Alternative 
+die Zugänglichmachung über ein institutionelles Repositorium. 
+Für sehr viele Fachgebiete existiert in Deutschland zumindest ein 
+spezifisches Repositorium, das beispielsweise mithilfe des Registry
+of Open Access Repositories (ROAR) oder dem Directory of Open Access
 Repositories (DOAR) ermittelt werden kann.
 
 Besteht die Möglichkeit zwischen mehreren Angeboten zu wählen, sollten
