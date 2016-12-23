@@ -173,10 +173,9 @@ basierten Systemen als Denkwerkzeuge für die Geisteswissenschaften lässt sich
 ab 1987 in der Geschichte der Bibliotheks- und Informationswissenschaft
 beobachten, wie der Rückblick von Erwin Welsch (1992) zeigt.
 
-Jef Raskin (1987) kritisiert zur Blütezeit der Hypertext-Entwicklungen – als
-Hypertext-Werkzeuge 
-auch deutlich vermehrt für geisteswissenschaftliche Forschung entwickelt
-wurden (siehe Welsch, 1992) – allerdings die vernachlässigte
+Jef Raskin (1987) kritisiert zur Blütezeit der Hypertext-Entwicklungen – 
+als Hypertext-Werkzeuge  auch deutlich vermehrt für geisteswissenschaftliche
+Forschung entwickelt wurden (siehe Welsch, 1992) – allerdings die vernachlässigte
 Benutzerfreundlichkeit der Hypertext-Systeme. Usability Engineering wird
 bisher tatsächlich auch weitgehend in den Digital Humanities vernachlässigt.
 Die Informationswissenschaft könnte hier mit ihrem Bewusstsein für Aspekte der
@@ -188,7 +187,7 @@ in alte Anforderungskataloge für Hypertext-Systeme (z. B. Halasz, 1987), um
 nützlichere und gebrauchstauglichere Post-Digital Humanities-Werkzeuge zu
 bauen. Man kann allerdings auch dafür argumentieren, in erster Linie auf den
 direkten Gebrauch von Auszeichnungs- und Modellierungssprachen zu setzen
-(siehe z. B. Groza u. a., 2007) statt auf aufwändige Modellierungs- und
+(siehe z. B. Groza u. a., 2007) statt auf aufwendige Modellierungs- und
 Annotationswerkzeuge mit grafischer Benutzeroberfläche, die sehr viel
 Usability Engineering bei der Entwicklung erfordern. Hier sei passenderweise
 kurz auf die Ankündigung von Ted Nelsons Vortrag Computers, Creativity, and
@@ -198,10 +197,8 @@ arts personages will have to learn to program, before computers can make their
 real contribution to civilization.”
 
 Mit einem programmiersprachlichen Ansatz dürfte auch der Dialog mit sich
-selbst (wie
-
-oben schon erwähnt) fließender und damit ungestörter vonstatten gehen. Zemanek
-(1966, S. 141) beschreibt Programmiersprachen als Werkzeug zur Formalisierung
+selbst (wie oben schon erwähnt) fließender und damit ungestörter vonstatten gehen. 
+Zemanek (1966, S. 141) beschreibt Programmiersprachen als Werkzeug zur Formalisierung
 und Kommunikation mit sich selbst:
 
 > The language is the carrier and the implementation of ideas; since it is
@@ -219,7 +216,7 @@ zum doch recht anspruchsvollen Ziel abzukommen:
 > will think as no human brain has ever thought and process data in a way not
 > approached by the information-handling machines we know today.
 
-Die Schwierigkeit für derartige Post-Digital Humanities-Projekte besteht nun
+Die Schwierigkeit für derartige post-digitale Humanities-Projekte besteht nun
 darin, die tatsächlichen Bedürfnisse der Geisteswissenschaften zu bedienen –
 also vielmehr die Unterstützung qualitativer als quantitativer Forschung
 (siehe z. B. Carvalho, 2012; Little, 2010) – und dabei gemäß dem Motto Nelsons
@@ -273,7 +270,7 @@ Biology and History. Dordrecht : Springer Netherlands, 2014.
 
 \[Gnoli und Poli 2004\] Gnoli, Claudio ; Poli, Roberto: Levels of Reality and
 Levels of Representation. In: Knowledge Organization 31 (2004), Nr. 3, S.
-151–160 
+151–160. 
 
 \[Halasz 1987\] Halasz, Frank G.: Reflections on NoteCards: Seven
 Issues for the Next Generation of Hypermedia Systems, ACM Press, 1987, S.
@@ -285,7 +282,7 @@ Kontext, Habilitation, 1997 6.
 
 \[Hennicke 2013\] Hennicke, Steffen: Representation of Archival User Needs
 using CIDOC CRM. In: Workshop Practical Experiences with CIDOC CRM and its
-Extensions (CRMEX 2013), 2013 
+Extensions (CRMEX 2013), 2013. 
 
 \[Henrichs 1994\] Henrichs, Norbert:
 Begriffswandel in Datenbanken: Kontextuelle Inhaltsanalyse für Disambiguierung
@@ -300,7 +297,7 @@ Kleinkorpora und gegen Großprojekte wie Googles Ngram-Viewer. In: Gugerli,
 David (Hrsg.) ; Hagner, Michael (Hrsg.) ; Hirschi, Caspar (Hrsg.) ; Kilcher,
 Andreas B. (Hrsg.) ; Purtschert, Patricia (Hrsg.) ; Sarasin, Philipp (Hrsg.) ;
 Tanner, Jakob (Hrsg.): Nach Feierabend 2013: Digital Humanities Bd. 9. Zürich
-: diaphanes, 2013, S. 103–119 
+: diaphanes, 2013, S. 103–119.
 
 \[Johansson 2016\] Johansson, Lars-Göran:
 Qualitative Data and Methods. In: Philosophy of Science for Scientists.
@@ -313,7 +310,7 @@ Springer International Publishing, 2016, S. 81-102.
 Transactions on Human Factors in Electronics HFE-1 (1960), März, S. 4-1.
 
 \[Licklider 1965\] Licklider, Joseph Carl R.: Libraries of the Future. MIT
-Press, 1965
+Press, 1965.
 
 \[Mancini und Buckingham Shum 2006\] Mancini, Clara ; Buckingham Shum, Simon
 J.: Modelling Discourse in Contested Domains: A Semiotic and Cognitive
@@ -343,7 +340,7 @@ of the Eighteenth Conference on Hypertext and Hypermedia, ACM, 2007, S.
 
 \[Piotrowski 2015\] Piotrowski, Michael: Document Engineering and Digital
 Humanities. In: NLP for Historical Texts: Computational linguistics and
-digital humanities. URL <http://nlphist.hypotheses.org/263>, Mai 2015. – Blog
+digital humanities. URL <http://nlphist.hypotheses.org/263>, Mai 2015. – Blog.
 
 \[Piotrowski 2016\] Piotrowski, Michael: Digital Humanities, Computational
 Linguistics, and Natural Language Processing. Lectures on Language Technology
@@ -362,7 +359,7 @@ History and Future of Mind-Expanding Technology. MIT Press, 2000.
 
 \[Stock 2016\] Stock, Wolfgang G.: Norbert Henrichs (1935–2016): Pionier der
 Informationswissenschaft in Deutschland. In: Information - Wissenschaft &
-Praxis 67 (2016), Januar, Nr. 4
+Praxis 67 (2016), Januar, Nr. 4, S. 257–268.
 
 \[Sumner und Shum 1998\] Sumner, Tamara ; Shum, Simon B.: From Documents to
 Discourse: Shifting Conceptions of Scholarly Publishing. In: Proceedings of
