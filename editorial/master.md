@@ -53,6 +53,8 @@ dem stetigen "prognostischen Unbehagen" zu entwickeln, dass Bibliotheken
 regelmäßig gegenüber medialen Veränderungsprozessen hegen. (Ausführlich
 schreibt dazu Andreas Hartsch in seinem Beitrag.)
 
+![Redaktionsorte: Akzession der Jubiläumsausgabe (Berlin, 16. November 2016)](redaktionssitzung.jpg)
+
 Wenigstens aus unserer Sicht ist das zeitgemäße Forschungsfeld der
 Bibliotheks- und Informationswissenschaft weniger, wie Bibliotheken
 digitale Systeme für die Optimierung ihrer traditionellen Aufgaben
