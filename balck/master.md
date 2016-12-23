@@ -8,41 +8,41 @@ dieser Ausdifferenzierung war unter anderem die stetige Zunahme
 wissenschaftlichen Wissens. Durch die Konzentration auf bestimmte
 Bereiche sollte eine intensivere Bearbeitung wissenschaftlicher
 Fragestellungen ermöglicht werden. Disziplinen bildeten sich um
-Gegenstandsbereiche und Problemstellungen herum und prägten so *"\[…\]
-die kognitive Schematisierung der Wirklichkeit \[…\]."* (Stichweh 1994,
-S. 19).
+Gegenstandsbereiche und Problemstellungen herum und prägten so "\[…\]
+die kognitive Schematisierung der Wirklichkeit \[…\]." (Stichweh 1994,
+S.19).
 
 In der Wissenschaftsforschung bestehen unterschiedlichste Konzepte zur
 Auslegung des Begriffs *Disziplin*. Besonders im x-disziplinären Diskurs
 lassen sich etliche Definitionsversuche ausmachen. Als zentral gelten,
 besonders in diesem Zusammenhang, die Arbeiten des
 Wissenschaftssoziologen Rudolf Stichweh. Stichweh definiert Disziplinen
-als *"\[…\] primäre Einheiten der internen Differenzierung der
-Wissenschaft \[…\]."* (Stichweh 2013, S. 2) Er nimmt damit Bezug auf die
+als "\[…\] primäre Einheiten der internen Differenzierung der
+Wissenschaft \[…\]." (Stichweh 2013, S.2) Er nimmt damit Bezug auf die
 Entstehung moderner Wissenschaft – welche er zudem in Aus- und
 Innendifferenzierung unterscheidet. Ausdifferenzierung stellt in diesem
 Zusammenhang einen Prozess dar, in welchem sich die Wissenschaft als
-*"autonomes Handlungssystem konstituiert und sich von anderen
-Funktionskontexten abtrennt \[…\]."* (Ebd. 2013, S. 15) Die
+"autonomes Handlungssystem konstituiert und sich von anderen
+Funktionskontexten abtrennt \[…\]." (Ebd. 2013, S. 15) Die
 Innendifferenzierung der Wissenschaft hingegen beschreibt die Entstehung
-wissenschaftlicher Disziplinen als eine *"\[…\] wissenschaftsinterne
-Wiederholung des Systembildungsprozesses \[…\]."* (Ebd, 2013, S. 15)
+wissenschaftlicher Disziplinen als eine "\[…\] wissenschaftsinterne
+Wiederholung des Systembildungsprozesses \[…\]." (Ebd, 2013, S.15)
 Eine Disziplin bildet demzufolge ein eigenes autonomes Handlungssystem,
 welches sich von anderen Kontexten und Gegenstandsbereichen abtrennt.
 Ein ähnliches Konzept des disziplinären Differenzierungsprozesses ist
-bei Guntau zu finden: *"\[…\] bei der Entstehung einer Disziplin \[lösen
+bei Guntau zu finden: "\[…\] bei der Entstehung einer Disziplin \[lösen
 sich\] die auf unterschiedliche Weise gewonnen Wissenselemente aus ihrem
 ursprünglichen Entstehungszusammenhängen heraus und bilden ein
-eigenständiges Wissenschaftliches System des Erkennens."* (Guntau 1987,
+eigenständiges Wissenschaftliches System des Erkennens." (Guntau 1987,
 S.4)
 
 Disziplinen sind demnach: auf bestimmte Ausschnitte der Umwelt der
 Wissenschaft spezialisierte Einheiten. Diese differenzierten Einheiten
 sind die Basis der internen Differenzierung der Wissenschaft und bilden
-die Grundlage einer *"\[…\] hierarchisch geordneten
-Wirklichkeitskonzeption \[…\]"* (Stichweh 1994, S. 31) Als Grundelemente
+die Grundlage einer "\[…\] hierarchisch geordneten
+Wirklichkeitskonzeption \[…\]" (Stichweh 1994, S.31) Als Grundelemente
 wissenschaftlicher Disziplinen ergeben sich daraus: Gegenstandsbereiche
-und darauf bezugnehmende Problemstellungen. (vgl. Ebd. 1994, S. 18f.)
+und darauf bezugnehmende Problemstellungen. (vgl. Ebd. 1994, S.18f.)
 
 Der Systembildungsprozess lässt sich auf drei Ebenen abbilden: auf
 kognitiver, sozialer und kommunikativer Ebene. Die kognitive Ebene
@@ -50,10 +50,10 @@ beschreibt die Bildung von Begriffen, Theorien und Methoden, welche sich
 um Gegenstandsbereiche und Problemstellungen formen. Diese Theorien und
 Begriffe – das anerkannte wissenschaftliche Wissen einer Disziplin – ist
 in wissenschaftlichen Publikationen repräsentiert und wird in diesen
-fortlaufend hinterfragt, indem sie *"\[…\] mittels Zitationen auf
+fortlaufend hinterfragt, indem sie "\[…\] mittels Zitationen auf
 frühere Publikationen referieren und mittels prinzipiell kontingenter
 Akte des Referierens die Grenzen des Sozialsystems Disziplin laufend neu
-definieren \[…\]."* (Stichweh 2014, S. 2) Dieser Prozess ist der Ebene
+definieren \[…\]." (Stichweh 2014, S.2) Dieser Prozess ist der Ebene
 der Kommunikation zuzuordnen – die Sammlung von Publikationen und das
 damit entstehende Kommunikationsnetzwerk, welches den Aufbau gemeinsamen
 Wissens ermöglicht. Die soziale Ebene beschreibt das Bestehen einer
@@ -63,37 +63,37 @@ Theorien und Methodensets entscheidet. Die Zugehörigkeit zur *Community*
 wird durch eine spezifische disziplinbezogene Karriere- und
 Sozialisationsstruktur bestimmt. Damit regulieren institutionelle und
 disziplinäre Strukturen das wissenschaftliche System. (vgl. Balsiger
-2005, S. 72)
+2005, S.72)
 
 #### Disziplinen, Interdisziplinarität und die neue Unübersichtlichkeit
 
 Die Entstehung von wissenschaftlichen Disziplinen und Spezialgebieten
-wird, wie zuvor erläutert, als *"\[…\] wissenschaftsinterne Wiederholung
-des Systembildungsprozesses \[…\]"* (Stichweh 2013, S. 15) verstanden –
+wird, wie zuvor erläutert, als "\[…\] wissenschaftsinterne Wiederholung
+des Systembildungsprozesses \[…\]" (Stichweh 2013, S.15) verstanden –
 als ein autonomes Handlungssystem, welches sich von anderen Disziplinen
-und Gegenstandsbereichen abtrennt. *"Das wichtigste Motiv \[…\] ist
+und Gegenstandsbereichen abtrennt. "Das wichtigste Motiv \[…\] ist
 dasjenige der notwendigen Reduktion eines Erkenntnisganzen (Welt). Ohne
-eine solche Reduktion ist keine Erkenntnisleistung zu erbringen."*
-(Balsiger 2005, S. 57) Die Differenzierung dient der Förderung von
+eine solche Reduktion ist keine Erkenntnisleistung zu erbringen."
+(Balsiger 2005, S.57) Die Differenzierung dient der Förderung von
 Innovation und Wachstum. Das Wachstum wissenschaftlicher Erkenntnisse
 wird durch zwei Modelle begründet: dem endogenen und dem exogenen
 Modell. Das endogene Modell beschreibt, dass jedes durch die
 Wissenschaft gelöste Problem ein oder mehrere ungelöste Probleme nach
 sich zieht. Um eine intensive Bearbeitung der Probleme zu gewährleisten,
 wiederholt sich der Differenzierungsprozess fortwährend.
-*"Differenzierung als eine Auflösung des Forschungsfeldes in eine
+"Differenzierung als eine Auflösung des Forschungsfeldes in eine
 Mehrzahl von Forschungsfeldern um den Übergang von einer extensiven zu
-intensiven Exploration des Feldes zu ermöglichen."* (Stichweh 1994, S.
-45) Das endogene Modell besagt, dass diese Differenzierung abermals die
+intensiven Exploration des Feldes zu ermöglichen." (Stichweh 1994, S.45)
+Das endogene Modell besagt, dass diese Differenzierung abermals die
 Zunahme wissenschaftlichen Wissens nach sich zieht, da diese die Anzahl
 der Probleme erhöht, die innerhalb eines Forschungsfeldes generiert
 werden können. Das Wachstum der Wissenschaft entspringt damit einer
 durch das Wachstum selbst ausgelösten Differenzierung der Wissenschaft.
-(vgl. Stichweh 1994, S. 44f.) *"Resultat: \[...\] eine stets weiter in
+(vgl. Stichweh 1994, S.44f.) "Resultat: \[...\] eine stets weiter in
 feinere Unterteilungen vorangetriebene Auffächerung des Systems, die im
 Maße, in dem sie die Einheit der Wissenschaft unanschaulich werden
 lässt, die Wissenschaft zwingt, sich über ihren eigenen Zusammenhang
-Gedanken zu machen."* (Stichweh 1994, S.48)
+Gedanken zu machen." (Stichweh 1994, S.48)
 
 Mit der kontinuierlichen Zunahme von wissenschaftlichem Wissen wird eine
 immer feinere und spezialisiertere Unterteilung notwendig. Infolgedessen
@@ -105,22 +105,22 @@ Netz wissenschaftlicher Disziplinen zu zerfallen und generiert so eine
 neue Dimension der Unübersichtlichkeit wissenschaftlicher Dinge. (vgl.
 Mittelstraß 2007, S.6)
 
-Konsequenzen: *"Produktion von Wahrheiten als Primärfunktion von
+Konsequenzen: "Produktion von Wahrheiten als Primärfunktion von
 Wissenschaft wird von den Disziplinen nicht in einem Arbeitsteiligen
 Zusammenwirken erbracht, vielmehr nimmt jede Disziplin die »Wahrheiten«
-über ihren Gegenstandsbereich in eigene Regie."* (Stichweh 1994, S. 22)
-Die fortschreitende Differenzierung zieht unter anderem *"disziplinäre
+über ihren Gegenstandsbereich in eigene Regie." (Stichweh 1994, S.22)
+Die fortschreitende Differenzierung zieht unter anderem "disziplinäre
 Identitätsbildung durch Fachsprachen oder \[…\] zunehmender Grad an
-Abstraktion innerhalb von Theorien \[…\]"* (Balsiger 2005, S. 18) nach
+Abstraktion innerhalb von Theorien \[…\]" (Balsiger 2005, S.18) nach
 sich; die durch Disziplinen entwickelten Begriffe, Theorien und Methoden
 werden immer spezialisierter und Wissensbestände immer umfangreicher.
 Die zunehmende Abstraktheit wissenschaftlicher Arbeit führt zu
 Kommunikationsproblemen innerhalb und außerhalb der Wissenschaft. Das
 hat den Ausschluss von Wissenschaftler\_innen anderer Disziplinen und
 besonders den Ausschluss von Nichtwissenschaftler\_innen zur Folge.
-*"Für das alltägliche Bewusstsein besteht Wissenschaft aus Methoden und
-Theorien die nur die Wissenschaft selbst versteht."* (Mittelstraß 1997,
-S. 15)
+"Für das alltägliche Bewusstsein besteht Wissenschaft aus Methoden und
+Theorien die nur die Wissenschaft selbst versteht." (Mittelstraß 1997,
+S.15)
 
 Gesellschaftliche Probleme werden immer komplexer und sind nur selten
 genau einer Disziplin unterzuordnen. Um eine zufriedenstellende Lösung
@@ -138,15 +138,15 @@ S. 7f.)
 In den 1960er Jahren wuchs, aufgrund der zunehmenden Spezialisierung,
 die Angst vor einem Relevanzverlust der Wissenschaft und sorgte so für
 den Aufschwung des Konzeptes Interdisziplinarität. Der Begriff ist als
-Ausdruck eines *"\[…\] innerwissenschaftlichen Krisendiskurses"* (Bogner
-2010, S. 7) zu verstehen. Interdisziplinarität als
-*"Reparaturvorstellung"* ist der Versuch, durch Überwindung
+Ausdruck eines "\[…\] innerwissenschaftlichen Krisendiskurses" (Bogner
+2010, S.7) zu verstehen. Interdisziplinarität als
+"Reparaturvorstellung" ist der Versuch, durch Überwindung
 disziplinärer Grenzen, gesellschaftlichen Problemstellungen gerecht zu
-werden. (vgl. Bogner 2010, S. 7f.) Doch *"\[w\]ährend in den 1960er und
+werden. (vgl. Bogner 2010, S.7f.) Doch "\[w\]ährend in den 1960er und
 70er Jahren die Interdisziplinarität als euphorisches Schlagwort einer
 wissenschaftskritischen Einstellung galt, lässt sich heute eine
 semantische Verwässerung des Begriffs und eine Anwendung auf unzählige
-Forschungs- und Gesellschaftsbereiche beobachten."* (Ryser 2016)
+Forschungs- und Gesellschaftsbereiche beobachten." (Ryser 2016)
 
 Mit der Zeit entwickelten sich weitere Konzepte mit dem Ziel der
 Abgrenzung von dem Begriff der Interdisziplinarität, welcher
@@ -156,18 +156,18 @@ kritisiert, selbst unüberschaubar geworden ist.
 
 **Multidisziplinarität**
 
-Multidisziplinarität beschreibt nach Jantsch eine *"\[…\] gleichzeitig
+Multidisziplinarität beschreibt nach Jantsch eine "\[…\] gleichzeitig
 angebotene Mannigfaltigkeit von Disziplinen, ohne jedoch mögliche
-Beziehungen anzugeben."* (zitiert nach Jantsch, In: Balsiger 2005, S.
-151). Eine nähere Umschreibung der spezifischen Intensität der
+Beziehungen anzugeben." (zitiert nach Jantsch, In: Balsiger 2005, S.151). 
+Eine nähere Umschreibung der spezifischen Intensität der
 Grenzüberschreitung liefert Heckhausen; dieser sieht
-Multidisziplinarität als eine Kooperation von *"Fächer\[n\] mit deutlich
+Multidisziplinarität als eine Kooperation von "Fächer\[n\] mit deutlich
 unterschiedlicher Disziplinarität\[, welche\] einen gemeinsamen
 Gegenstand des materiellen Feldes aus der jeweiligen fachlichen
 Perspektive des Gegenstandaspektes und des theoretischen
-Integrationsniveaus \[…\]*" (Heckhausen 1970, S. 139) bearbeiten.
+Integrationsniveaus \[…\]" (Heckhausen 1970, S.139) bearbeiten.
 Hierbei werden die jeweiligen Ergebnisse "facettenartig"
-zusammengesetzt, diese nehmen aber keinen direkten Bezug aufeinander und
+zusammengesetzt. Diese nehmen aber keinen direkten Bezug aufeinander und
 verschmelzen nicht zu einer einheitlichen Aussage. Multidisziplinarität
 ist damit lediglich eine höhere Stufe der herkömmlichen disziplinären
 Zusammenarbeit. Mehrere sich unterscheidende Disziplinen untersuchen
@@ -176,36 +176,36 @@ Aspekten, Teilbereiche eines disziplinübergreifenden Problems. Im
 Gegensatz zu rein disziplinärer Zusammenarbeit wird sich darum bemüht,
 die Ergebnisse den anderen, das Problem bearbeitenden, Disziplinen zu
 kommunizieren und so eine Erweiterung der Perspektive auf das gemeinsame
-Themengebiet zu ermöglichen. (vgl. Balsiger 2005, S. 152)
+Themengebiet zu ermöglichen. (vgl. Balsiger 2005, S.152)
 
 **Interdisziplinarität**
 
 Die Spannweite des Verständnisses von Interdisziplinarität ist sehr
 breit und reicht, so Balsiger, von der Vorstellung der
-Interdisziplinarität als *"\[…\] reine Übersetzungsleistung unter
-Vertretern unterschiedlicher Disziplinen"* (Ebd. 2005, S. 158), einer
+Interdisziplinarität als "\[…\] reine Übersetzungsleistung unter
+Vertretern unterschiedlicher Disziplinen" (Ebd. 2005, S.158), einer
 Form disziplinübergreifender Kommunikation, bis hin zur
-Interdisziplinarität als *"eigene Form des Erkenntnisgewinns"* (Ebd.
-2005, S. 158) – eine eindeutige Abgrenzung zu anderen Konzepten lässt
+Interdisziplinarität als "eigene Form des Erkenntnisgewinns" (Ebd.
+2005, S.158) – eine eindeutige Abgrenzung zu anderen Konzepten lässt
 sich demnach nur bedingt treffen.
 
 Balsiger definiert Interdisziplinarität aus wissenschaftstheoretischer
-Sicht als "*eine Form kooperativen wissenschaftlichen Handelns in Bezug
+Sicht als "eine Form kooperativen wissenschaftlichen Handelns in Bezug
 auf gemeinsam erarbeitete Problemstellungen und Methoden, welche darauf
 ausgerichtet ist, durch Zusammenwirken \[…\] unterschiedlicher
 wissenschaftlicher Disziplinen, das jeweils angemessenste
 Problemlösungspotential für gemeinsam bestimmte Zielsetzungen
-bereitzustellen."* (Balsiger 2005, S. 173) Er verfolgt damit eine
+bereitzustellen." (Balsiger 2005, S.173) Er verfolgt damit eine
 prozessuale Definition, die gezielt auf den Handlungsaspekt eingeht und
 hebt den immer neu zu gestaltenden Prozess innerhalb interdisziplinärer
 Zusammenarbeit hervor. Er fügt seiner Definition erklärend hinzu, dass
-sie *"\[...\]nicht den Versuch dar\[stellt\], den von vielen
+sie "\[...\]nicht den Versuch dar\[stellt\], den von vielen
 unterstellten und gleichzeitig beklagten Verlust der Einheit der
 Wissenschaft zu mildern oder gar rückgängig zu machen. Vielmehr soll sie
 vermehrt Raum zur Reflexion bieten, die durch die scheinbar wachsende
 Komplexität der wissenschaftlichen Problemstellungen und durch den
-wachsenden Zwang zur Erkenntnisproduktion unter Druck geraten ist."*
-(Ebd. 2005, S. 173)
+wachsenden Zwang zur Erkenntnisproduktion unter Druck geraten ist."
+(Ebd. 2005, S.173)
 
 Interdisziplinarität führt, im Gegensatz zur Multidisziplinarität, zu
 einer tatsächlichen Überschreitung, bei der die Grenzen für Methoden
@@ -217,30 +217,30 @@ Erarbeitung durchlässig werden.
 Transdisziplinarität beschreibt die Loslösung von disziplinären Grenzen
 und das Zusammenwirken mehrerer Disziplinen in einem
 disziplinübergreifenden, integrativen Prozess. Laut Stichweh sind
-transdisziplinäre Konzepte, *"Konzepte, die von vornherein auf einer
+transdisziplinäre Konzepte, "Konzepte, die von vornherein auf einer
 Ebene angesiedelt sind, auf der ihr Bedeutungsgehalt nicht auf
-spezifische Probleme einzelner Disziplinen referiert"* (Stichweh 1994,
-S. 36) – eine Art *"disziplinübergreifende Ressource".*
+spezifische Probleme einzelner Disziplinen referiert" (Stichweh 1994,
+S.36) – eine Art "disziplinübergreifende Ressource".
 Transdisziplinarität stellt damit für Stichweh keinen Prozess dar,
 sondern eine wissenschaftssystematische Gegebenheit. Mittelstraß
-hingegen sieht Transdisziplinarität als Konzept, dass "*\[…\] sich aus
+hingegen sieht Transdisziplinarität als Konzept, dass "\[…\] sich aus
 \[seinen\] disziplinären Grenzen löst, \[…\] \[seine\] Probleme
-disziplinübergreifend definiert und disziplinunabhängig löst."*
-(Mittelstraß 2012, S. 13) Gegenstände, Begriffe und Methoden sind
+disziplinübergreifend definiert und disziplinunabhängig löst."
+(Mittelstraß 2012, S.13) Gegenstände, Begriffe und Methoden sind
 hierbei nicht disziplinär vorbestimmt, sondern werden in einem
 deduktiv-rekursiven Verfahren gemeinschaftlich erarbeitet (Abb. 1).
-(vgl. Wille 2014, S. 43ff.) Die Forschungstätigkeit richtet sich an den
+(vgl. Wille 2014, S.43ff.) Die Forschungstätigkeit richtet sich an den
 an die Wissenschaft herangetragenen Forschungsfragen und
 Problemstellungen aus und umgeht damit einer strikten disziplinären
 Eingrenzung.
 
 Transdisziplinäre Kooperation kann sich im Prozess zu einem zeitlich
-unbegrenzten Konzept – Transdisziplin – entwickeln, eine *"Kooperation
+unbegrenzten Konzept – Transdisziplin – entwickeln, eine "Kooperation
 \[die\] zu einer andauernden, die fachlichen und disziplinären
 Orientierungen selbst verändernden wissenschaftssystematischen Ordnung
-führt."* (Mittelstraß, 2003, S. 9) Disziplinen dieses Typs sind
-*"Intentional für transdisziplinäre Forschungsinteressen generiert
-worden."* Kritisiert werden kann, dass die Entstehung neuer
+führt." (Mittelstraß, 2003, S.9) Disziplinen dieses Typs sind
+"Intentional für transdisziplinäre Forschungsinteressen generiert
+worden." Kritisiert werden kann, dass die Entstehung neuer
 Transdisziplinen eine Differenzierungsform darstellt und so die
 Spezialisierung vorantreibt, anstatt ihr entgegen zu wirken. Eine
 weitere Auslegung des Begriffs zielt auf die Einbeziehung
@@ -253,15 +253,15 @@ Begriff der Transwissenschaft geführt.
 In Transwissenschaft deutet "trans" – "über" – auf eine Überwindung der
 Grenzen zwischen Wissenschaft und Gesellschaft hin, diese Grenzöffnung
 wird durch den Einbezug nichtwissenschaftlicher Akteure, der Umwelt auf
-die sich die wissenschaftliche Tätigkeit bezieht, realisiert. *"\[…\]*
-*Transwissenschaft \[als\] Einbezug außerwissenschaftlicher
-Wissensbestände und Perspektiven."* (Bogner 2010, S. 13)
+die sich die wissenschaftliche Tätigkeit bezieht, realisiert. "\[…\] 
+Transwissenschaft \[als\] Einbezug außerwissenschaftlicher
+Wissensbestände und Perspektiven." (Bogner 2010, S.13)
 Transwissenschaft ist ein partizipatives Konzept, dass darauf zielt, das
 wissenschaftliche Wissen unter Beteiligung der betroffenen
-Öffentlichkeit durch lokales, *"sozial robustes"* Wissen zu erweitern.
-*"Bereitstellung von sozial robustem Wissen zur Lösung konkreter
+Öffentlichkeit durch lokales, "sozial robustes" Wissen zu erweitern.
+"Bereitstellung von sozial robustem Wissen zur Lösung konkreter
 gesellschaftlicher Probleme \[steht\] im Vordergrund – und damit der
-Aspekt der Wissensqualität."* (Bogner 2010, S. 8)
+Aspekt der Wissensqualität." (Bogner 2010, S.8)
 
 ![Metamorphose der X-Disziplinarität](img/Metamorphose_X.jpg)
 
@@ -281,28 +281,28 @@ Beschreibung von Information vorzunehmen, die zeitlich und disziplinär
 lokal ist.
 
 Lange Zeit bezog man sich innerhalb der Informationswissenschaft auf das
-Sender-Empfänger-Modell von Claude Shannon und Warren Weaver; dieses
+Sender-Empfänger-Modell von Claude Shannon und Warren Weaver. Dieses
 geriet jedoch aufgrund seines rein statistisch-mathematischen
-Verständnisses von Information in die Kritik. Im deutschsprachige Raum
-sind aktuell die Definitionsversuche Rainer Kuhlens maßgebend. Dieser
-beschreibt, dass Information ihren Ausgang von Wissen nimmt und Wissen
-somit den Grundstoff zur Entstehung von Informationen darstellt. Kuhlen
+Verständnisses von Information in die Kritik. Im deutschsprachigen Raum
+sind aktuell die Definitionsversuche Rainer Kuhlens maßgebend, der
+beschreibt, dass Information ihren Ausgang von Wissen nehme und Wissen
+somit den Grundstoff zur Entstehung von Informationen darstelle. Kuhlen
 spricht von einem doppelten Transformationsprozess: Transformation 1:
 Durch einen Prozess der Informationserarbeitung transformiert sich
 potentiell relevantes Wissen in Information. Transformation 2:
 Information wird durch den Prozess des zu potentiell relevantem Wissen.
-(vgl. Kuhlen 2013, S. 4) Es kommt aufgrund des Informationsprozesses zur
+(vgl. Kuhlen 2013, S.4) Es kommt aufgrund des Informationsprozesses zur
 Veränderung der Wissensstruktur.
 
 ![Transformationsprozess von Information und Wissen nach Kuhlen](img/Transformation_Information.jpg)
 
-Wissen kann als *"Bündel von Aussagen über materielle oder immaterielle
-Objektbereiche"* verstanden werden, welches *"verfügbar \[ist\] sobald
-es in irgendeiner medialen Form repräsentiert ist."* (Kuhlen 2013, S. 2)
+Wissen kann als "Bündel von Aussagen über materielle oder immaterielle
+Objektbereiche" verstanden werden, welches "verfügbar \[ist\] sobald
+es in irgendeiner medialen Form repräsentiert ist." (Kuhlen 2013, S.2)
 Die mediale Form beschreibt nicht zwingend ein sprachlich oder
 schriftlich fixiertes Dokument, sondern vielmehr das "kognitive Objekt"
-ein "immaterielles Substrat". Information stellt eine *"\[…\] subjektive
-Rezeption von repräsentiertem Wissen \[…\]"* (Ebd. 2013, S. 2) dar –
+ein "immaterielles Substrat". Information stellt eine "\[…\] subjektive
+Rezeption von repräsentiertem Wissen \[…\]" (Ebd. 2013, S.2) dar –
 eine vom Kontext des Rezipienten abhängige Interpretation. Diese
 Information gilt erst als solche, sobald sie für den Rezipienten von
 Nutzen und somit handlungsrelevant ist. Anstelle eines hierarchischen
@@ -314,8 +314,8 @@ Information.
 Parallelen zu Kuhlens Theorie sind beispielsweise in Michael Bucklands
 dreiteiliger Informations-Definition zu erkennen. Buckland unterteilt
 in: \[1\] *Information-as-knowledge* – erlangtes Wissen, dieses wurde
-dadurch erlangt, informiert worden zu sein \[2\]
-*Information-as-process* – über etwas informiert werden \[3\]
+dadurch erlangt, informiert worden zu sein \[2\], 
+*Information-as-process* – über etwas informiert werden \[3\], 
 *Information-as-thing* – das physische Dokument.
 
 Die erste Ebene ähnelt Kuhlens Transformationsprozess 2: Information
@@ -324,14 +324,14 @@ potentiell relevanten Wissen. Die zweite Ebene gleicht dem
 Transformationsprozess 1: in diesem entsteht durch den Erhalt relevanter
 Information im Prozess (aus Wissen) Information. Auch Buckland sieht
 Informationen als situationsgebunden und damit handlungsrelevant. Wissen
-und Information bilden *"intangible"* – unfassbare – Einheiten. Die
+und Information bilden *intangible* – unfassbare – Einheiten. Die
 dritte Ebene widmet sich deshalb explizit der physischen Repräsentation
 von Wissen, in Form von Dokumenten.
 
 Kuhlen leitet aus den dargestellten Überlegungen die Definition
-*"Information ist Wissen in Aktion und Kontext"* (Kuhlen 2013, S. 2) ab
+"Information ist Wissen in Aktion und Kontext" (Kuhlen 2013, S.2) ab
 und hebt besonders die Handlungsrelevanz hervor. Die ursprüngliche
-Definition bezog sich lediglich auf *"Wissen in Aktion"* und blendete
+Definition bezog sich lediglich auf "Wissen in Aktion" und blendete
 vorerst den Kontext aus. Deutlich wird eine einschlägige Veränderung des
 Verständnisses des Hauptgegenstandes und damit einhergehend eine
 Veränderung des Verständnisses der Disziplin als Ganzes. Besondere
@@ -343,8 +343,8 @@ Entwicklung der Informationswissenschaft deutlich nachzuvollziehen.
 
 #### Die paradigmatische Entwicklung der Informationswissenschaft
 
-Disziplinen sind *"\[..\] nichts Naturgegebenes, sondern etwas durch die
-Wissenschaftsgeschichte Gegebenes."* (Mittelstraß, 1987, S. 153) Ihre
+Disziplinen sind "\[..\] nichts Naturgegebenes, sondern etwas durch die
+Wissenschaftsgeschichte Gegebenes." (Mittelstraß, 1987, S.153) Ihre
 Grenzen, wie Mittelstraß mit diesem Satz aussagen will, sind historische
 und nicht nur theoretische. Auch die Informationswissenschaft ist – wie
 jede wissenschaftliche Einheit – historisch gewachsen.
@@ -356,8 +356,8 @@ und Veränderung einer Disziplin durch wissenschaftliche Revolutionen
 ausgelöst. Innerhalb einer wissenschaftlichen Revolution stehen sich
 zwei oder mehrere Paradigmen, in Form von Theorien, gegenüber. Häufig
 stellt sich die alte Theorie als Grenzfall der Neuen heraus und es kommt
-zu einer *"\[…\] Verschiebung des Begriffsnetzes \[...\], durch welches
-die Wissenschaftler die Welt betrachten."* (Kuhn 1976, S. 115) – eine
+zu einer "\[…\] Verschiebung des Begriffsnetzes \[...\], durch welches
+die Wissenschaftler die Welt betrachten." (Kuhn 1976, S 115) – eine
 kollektive Wahrnehmungsverschiebung. (vgl. Kuhn 1976) Paradigmatisch
 lassen sich für die Informationswissenschaft vier Hauptphasen bestimmen
 (vgl. Capurro 2001; Kuhlen 2013; Bawden, Robinson 2012):
@@ -376,7 +376,7 @@ bibliographisch-dokumentarische, klassifikatorische Sicht auf
 Information und Wissen charakterisiert. Sie kennzeichnet grundlegende
 Begriffe informationswissenschaftlicher Tätigkeiten: Auswerten,
 Bereitstellen, Suchen und Finden, Organisieren und Präsentieren von
-Information und Wissen. (vgl. Kuhlen 2013, S. 12ff.)
+Information und Wissen. (vgl. Kuhlen 2013, S.12ff.)
 
 \[2\] Retrival-Paradigma
 
