@@ -1,0 +1,2 @@
+---
+**Linda Freyberg** (geb. Treude) studierte Bibliothekswissenschaft und Kunstgeschichte an der Humboldt-Universität zu Berlin. Sie ist Dozentin am Fachbereich Informationswissenschaften der Fachhochschule Potsdam und Stipendiatin ebendort im Rahmen des Professorinnenprogrammes am Institut für Urbane Zukunft. Sie promoviert zur Zeit zum Thema "Iconicity in Information" an der Leuphana Universität Lüneburg am Promotionskolleg Wissenskulturen / Digitale Medien und ist Redakteurin der LIBREAS.Library Ideas.
