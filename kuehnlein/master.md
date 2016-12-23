@@ -318,6 +318,7 @@ anfallender Personalkosten sowie der zeitliche Aufwand können zudem
 durch die Nutzung von Open-Source-Software für elektronische
 Zeitschriften, beispielsweise Open Journals Systems
 (OJS), auf ein Minimum reduziert werden.
+
 Personelle Ressourcen sind bei diesem Weg die hauptsächlichen
 Kostenfaktoren. Denkbar wäre hier wie beim Goldenen Weg des Open Access
 eine Finanzierung über die Erhebung von APC, wobei diese aus genannten
