@@ -59,7 +59,7 @@ u. a., 2014), etc.)
 Idealerweise sollte eine Lösung eine Art ontologischer Hypertext sein (siehe
 auch Nurmikko- Fuller u. a., 2015), über den die bibliographischen Daten von
 Publikationen und Metadaten von Dokumenten bereitgestellt werden können und
-der die Transklusion von Inhalten von Dokumenten zur Nachnutzung (z. B.
+der die Transklusion von Inhalten von Dokumenten zur Nachnutzung (zum Beispiel
 Zitation) erlaubt. Im Kontext des WWW, deren Hypertext-Konzept die
 angesprochenen Probleme nicht zu berücksichtigen vermag, äußert sich Ted
 Nelson in einem anderen Interview wie folgt: “We are using a degenerate form
@@ -113,13 +113,12 @@ die Geisteswissenschaftler außerdem zu formalen Modellen, die nicht nur die
 Grundlage für gemeinsames Forschen mit anderen Wissenschaftlern bildet (vgl.
 Piotrowski, 2016), sondern mittels eines entsprechenden Hypertext-Werkzeugs
 quasi auch als Dialogpartner im kreativen Schaffensprozess dient: „Hypertext
-kann eine Mittelposition \[zwischen lebendigem Dialog und geschriebenem Text\] einnehmen.“(Hammwöhner, 1997, S. 72 ff.)
+kann eine Mittelposition \[zwischen lebendigem Dialog und geschriebenem Text\] einnehmen.“
+(Hammwöhner, 1997, S. 72 ff.)
 
 Um auch auf einen alten Beitrag aus der Informatik zu verweisen, möchte ich
 noch Heinz Zemanek (1992, S. 185) zitieren, der auf den besonderen Anspruch an
-geisteswissenschaftliche
-
-Wissensrepräsentation hinweist:
+geisteswissenschaftliche Wissensrepräsentation hinweist:
 
 > Diese Formalismen müssen – das kann man nicht oft genug betonen – den
 > Geisteswissenschaften äquivalent sein, und dürfen keine platten Anleihen
@@ -159,9 +158,9 @@ Granularität notwendig (Piotrowski, 2015).
 
 Reiner Text kann etwa in Form eines historischen Narrativs zwar sogar eine
 mechanistische Erklärung sein (vgl. Glennan, 2010, 2014), aber eben nur als informale
-Beschreibung, die erstmal nicht automatisch Computer-gestützt
+Beschreibung, die erstmal nicht automatisch computergestützt
 weiterverarbeitet werden kann und darüber hinaus womöglich nicht logisch
-kohärent sondern mehrdeutig und vage ist. Das ist dann auch nicht unbedingt
+kohärent, sondern mehrdeutig und vage ist. Das ist dann auch nicht unbedingt
 redliche Geistes- bzw. Geschichtswissenschaft, denn wie es so schön treffend
 im Rückentext von Lothar Kolmer (2008) heißt: „Wer sich nicht von der
 Beredsamkeit der Historiker blenden lassen will, muss das Gerüst entdecken
@@ -379,7 +378,7 @@ In: Library Trends 40: Electronic Information for the Humanities (1992), Nr.
 4, S. 614-646.
 
 \[Zemanek 1966\] Zemanek, Heinz: Semiotics and Programming Languages. In:
-Communications of the ACM 9 (1966), März, Nr. 3, S. 139143.
+Communications of the ACM 9 (1966), März, Nr. 3, S. 139-143.
 
 \[Zemanek 1992\] Zemanek, Heinz: Computer für die Geisteswissenschaften,
 Geisteswissenschaften für den Computer. S. 166-234. In: Das geistige Umfeld
@@ -388,7 +387,7 @@ der Informationstechnik, Springer, 1992.
 \[Zumstein und Stöhr 2015\] Zumstein, Philipp ; Stöhr, Matti: Zur Nachnutzung
 von bibliographischen Katalog- und Normdaten für die persönliche
 Literaturverwaltung und Wissensorganisation. In: ABI Technik 35 (2015),
-Januar, Nr. 4 8.
+Januar, Nr. 4, S. 210-221.
 
 [^1]: Besonders interessant als Grundlage für inhaltliche Analysen sind
 auch Korpora wie Dokumentenkollektionen wissenschaftlicher
