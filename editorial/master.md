@@ -53,7 +53,7 @@ dem stetigen "prognostischen Unbehagen" zu entwickeln, das Bibliotheken
 regelmäßig gegenüber medialen Veränderungsprozessen hegen. (Ausführlich
 schreibt dazu Andreas Hartsch in seinem Beitrag.)
 
-![Redaktionsorte: Akzession der Jubiläumsausgabe (Berlin, 16. November 2016)](redaktionssitzung.jpg)
+![Redaktionsorte IX: Akzession der Jubiläumsausgabe (Berlin-Mitte, 16. November 2016)](redaktionssitzung.jpg)
 
 Wenigstens aus unserer Sicht ist das zeitgemäße Forschungsfeld der
 Bibliotheks- und Informationswissenschaft weniger, wie Bibliotheken
