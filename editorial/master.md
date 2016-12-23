@@ -1,6 +1,6 @@
 ### Motivation für die Ausgabe
 
-Warum Post-Digital-Humanities? Eine Antwort auf diese Frage haben wir
+Warum Post-Digital-Humanities? Eine Antwort auf diese Frage haben wir im
 Call for Papers dieser Ausgabe zu formulieren versucht. (LIBREAS.
 Redaktion, 2016) Im seitdem vergangenen halben Jahr ist uns nichts
 begegnet, was uns zu einem grundsätzlichen Abweichen von dieser Position
@@ -12,14 +12,14 @@ zu den Digital Humanities anbieten. Das Potential dieses Ansatzes, so
 schrieben wir, "liegt in der Öffnung eines dekonstruktiven und damit das
 Selbstverständnis hinterfragenden und zugleich voran bringenden
 Ansatzes. Denn ein allen Geisteswissenschaften gemeinsames Merkmal ist
-der Diskurs, der auch das Hinterfragen der eigenen Methoden beinhaltet."
+der Diskurs, der auch das Hinterfragen der eigenen Methoden beinhaltet." 
 (ebd.)
 
-Da "post-digital" als Begriff, wie wir unten noch einmal benennen, im
+Da "post-digital" als Begriff, wie wir ihn unten noch einmal nennen, im
 Prinzip seine eigene Überflüssigkeit beinhaltet, ist sein einziger Zweck
 tatsächlich der einer Bewusstmachung. So wie die Idee der Postmoderne
 jegliche Bildung von Schulen und Ideologien notwendig unterlief, ist die
-Attributierung von "post-digital" eine diskursiver Hebel, um das
+Attributierung von "post-digital" ein diskursiver Hebel, um das
 vermeintlich Selbstverständliche zu konfrontieren. Und zwar einerseits
 mit einer Vielzahl von näheren und entfernteren Entwicklungen und
 andererseits immer auch mit sich selbst.
@@ -45,11 +45,11 @@ formale Diskursträger sammeln, erschließen und verfügbar halten.
 Post-Digital-Humanities sind daher zwangsläufig auch ein Thema der
 Bibliotheks- und Informationswissenschaft. Und zwar auch hinsichtlich
 ihrer Abgrenzung, wie Sandra Balck in ihrem Beitrag zu dieser Ausgabe
-heraus arbeitet.) Wenn es der Disziplin gelingt, mit ihrem
+heraus arbeitet. Wenn es der Disziplin gelingt, mit ihrem
 Überblicksverständnis zu den Entwicklungen des Digitalen relevant
 Expertise in die Geisteswissenschaften zu vermitteln, dann erfüllt sie
 exakt ihre Aufgabe. Und sie wäre in der Lage, einen stabilen Gegenpol zu
-dem stetigen "prognostischen Unbehagen" zu entwickeln, dass Bibliotheken
+dem stetigen "prognostischen Unbehagen" zu entwickeln, das Bibliotheken
 regelmäßig gegenüber medialen Veränderungsprozessen hegen. (Ausführlich
 schreibt dazu Andreas Hartsch in seinem Beitrag.)
 
