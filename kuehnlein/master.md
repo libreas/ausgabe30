@@ -77,11 +77,11 @@ zugänglich sind, werden stärker wahrgenommen als Informationen deren
 Zugang beschränkt ist. Im Internet sind diese Informationen von
 Suchmaschinen und anderen Nachweisdiensten leichter indexierbar.
 Suchmaschinen, wie die Bielefeld Academic Search Engine
-(BASE) und auch das Directory of Open
-Access Journals (DOAJ) sind spezialisiert auf das
-Indexieren von Open-Access-Dokumenten. Durch die zunehmende Verbreitung
-und Sichtbarmachung von Open-Access-Informationen können diese vermehrt
-genutzt und weiterverwendet werden. 
+(BASE) und auch das Directory of Open Access Journals (DOAJ) 
+sind spezialisiert auf das Indexieren von Open-Access-Dokumenten. 
+Durch die zunehmende Verbreitung und Sichtbarmachung von 
+Open-Access-Informationen können diese vermehrt genutzt und 
+weiterverwendet werden. 
 
 Die freie Verfügbarkeit von Informationen fördert auch die 
 ländergrenzen- und fachübergreifende Zusammenarbeit. Auch Staaten, 
@@ -167,8 +167,7 @@ Langzeitverfügbarkeit der Dokumente auf dem Repositorium gesichert sein.
 Hier spielt auch die Reputation des Repositorien-Betreibers eine Rolle.
 Zweitens sollten die Betreiber des Repositoriums Hilfe bei der
 Erstellung, dem Upload und der Verwaltung der elektronischen Dokumente
-anbieten. Im Idealfall sollte es zudem über das
-[DINI-Zertifikat verfügen, das
+anbieten. Im Idealfall sollte es zudem über das DINI-Zertifikat verfügen, das
 neben den oben genannten Punkten weitere wichtige Kriterien zur
 Beurteilung eines Repositoriums enthält.
 
@@ -296,14 +295,12 @@ auch ganz ohne Verlagsbeteiligung, dafür in kompletter Eigenregie des
 Herausgebers erscheinen. Der Zugang zu den von der Universität
 bereitgestellten Ressourcen zur Veröffentlichung nach Open Access würde
 sinnvollerweise über eine Zusammenarbeit mit der Arbeitsgruppe
-"Elektronisches
-Publizieren" erfolgen,
-welche sich aus der Universitätsbibliothek und dem Computer- und
-Medienservice zusammensetzt. Während die Universitätsbibliothek die
-Zeitschrift mit Bestandsaufnahme, Metadaten und Erschließung
-unterstützt, sichert der Computer- und Medienservice die Bereitstellung
-auf dem institutionellen Repositorium, dem edoc-Server der HU Berlin ab.
-Diese Art der Bereitstellung gewährleistet gleichzeitig die
+"Elektronisches Publizieren" erfolgen, welche sich aus der Universitätsbibliothek
+und dem Computer- und Medienservice zusammensetzt. Während die 
+Universitätsbibliothek die Zeitschrift mit Bestandsaufnahme, Metadaten
+und Erschließung unterstützt, sichert der Computer- und Medienservice 
+die Bereitstellung auf dem institutionellen Repositorium, dem edoc-Server 
+der HU Berlin ab. Diese Art der Bereitstellung gewährleistet gleichzeitig die
 Langzeitarchivierung der Zeitschrift (Dobratz 2007: 28–30; Schirmbacher
 2005: 6).
 
