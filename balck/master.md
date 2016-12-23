@@ -812,73 +812,72 @@ Als Beispiel für die sichtbare Usurpierung
 informationswissenschaftlicher Themen nennt Hobohm die *Digital
 Humanities*. Während die Informationswissenschaften im
 angloamerikanischen Sprachraum in diesem Bereich einen festen Platz
-einnehmen, herrscht im deutschsprachigen Raum *"eine gewisse Ablehnung
-der digital Humanities als "unnötige Erfindung"* (Burghardt et al.
-2015, S. 288) von Seiten der Informationswissenschaft. Melissa Terras
+einnehmen, herrscht im deutschsprachigen Raum "eine gewisse Ablehnung
+der digital Humanities als "unnötige Erfindung" (Burghardt et al.
+2015, S.288) von Seiten der Informationswissenschaft. Melissa Terras
 stellt heraus, dass die Beiträge in den *Digital
 Humanities*-Konferenzbänden im angloamerikanischen Raum zum Großteil aus
 der Bibliotheks- und Informationswissenschaft stammen, während im
 Vergleich die informationswissenschaftlichen Beiträge oder auch nur
 Bezugnahmen auf die informationswissenschaftliche Theorien in den
-Beiträgen der *"DHD-Tagung – Digital Humanities im deutschsprachigen
-Raum"* gering sind: Eine Volltextsuche nach dem Begriff
+Beiträgen der "DHD-Tagung – Digital Humanities im deutschsprachigen
+Raum" gering sind: Eine Volltextsuche nach dem Begriff
 "Informationswissenschaft" ergibt 24 Treffer auf 488 Seiten, von denen
 19 Treffer in den einzigen informationswissenschaftlichen Beitrag
-fallen. (vgl. Zentrum für Informationsmodellierung 2015) "*\[…\] \[D\]ie
+fallen. (vgl. Zentrum für Informationsmodellierung 2015) "\[…\] \[D\]ie
 Digital Humanities \[begeben sich\] mit ihrer Forschungsagenda häufig in
 das traditionelle Tätigkeitsfeld der Informationswissenschaft \[…\]
 \[nehmen\] dabei aber die bestehende Informationswissenschaftsforschung
 und deren Lösungsansätze für viele DH-Probleme nicht ausreichend zur
-Kenntnis \[…\]."* (Burghardt et al. 2015, S. 288) Aus Perspektive der
+Kenntnis \[…\]." (Burghardt et al. 2015, S.288) Aus Perspektive der
 deutschsprachigen Informationswissenschaft kann demzufolge von einer
-Usurpierung gesprochen werden. ner Usurpierung gesprochen werden. Hier
-wird die Eigenheit der Disziplinarität deutlich, wobei eine
-x-disziplinäre Kooperation eine Neubearbeitung bereits erforschter
-Themen verhindern könnte.
+Usurpierung gesprochen werden. Hier wird die Eigenheit der Disziplinarität
+deutlich, wobei eine x-disziplinäre Kooperation eine Neubearbeitung 
+bereits erforschter Themen verhindern könnte.
 
 Die Diskussion um die *Digital Humanities* wirft zugleich ein weiteres
-Desiderat der Informationswissenschaft auf. So fragt Hobohm *"\[…\]
+Desiderat der Informationswissenschaft auf. So fragt Hobohm, "\[…\]
 warum diese "neue" Disziplin z.Zt. einen solchen Hype erfährt, obwohl
 sie mit hergebrachten Methoden und Instrumenten unserer Disziplin
-arbeitet (arbeiten sollte)."* (Hobohm 2015, S. 3) Ähnlich wie die
+arbeitet (arbeiten sollte)." (Hobohm 2015, S.3) Ähnlich wie die
 Informationswissenschaft stellt die noch junge Disziplin *Digital
 Humanities* Verbindungen zwischen geisteswissenschaftlichen und
 technischen Traditionen her. Ein ähnlicher Methodenkanon ist daher nicht
-verwunderlich. Was zu den genuinen *"Methoden und Instrumenten unserer
-Disziplin"* (Ebd. 2015, S. 3) zählt ist jedoch fraglich. So zeigen die
+verwunderlich. Was zu den genuinen "Methoden und Instrumenten unserer
+Disziplin" zählt ist jedoch fraglich. (Ebd. 2015, S.3) So zeigen die
 vorangegangenen Aussagen ein heterogenes Bild der Disziplin, besonders
 in Bezug auf die die Methoden prägenden Bereiche: Gegenstand,
 *Scientific Community* und Themenschwerpunkt.
 
 Christa Womser-Hacker schreibt mit Bezug auf eine interdisziplinäre
 Vernetzung (geistes- sowie naturwissenschaftliche Verbindung) der
-Informationswissenschaft: *"Die Informationswissenschaft ist eine
+Informationswissenschaft: "Die Informationswissenschaft ist eine
 Wissenschaft, die nicht nur analysiert, beobachtet, beschreibt,
 rezipiert, sondern gestaltend in die Entwicklung von informationellen
 Prozessen und Systemen eingreift \[…\]. Das zweite wichtige Prinzip ist
 die empirische, benutzerorientierte Sicht auf Information und die mit
 ihr verbundenen Prozesse. Dieser Ansatz erfordert ein breitgefächertes
-Methodeninventar \[…\]."* (Womser-Hacker 2010, S. 335) Den zweiten
+Methodeninventar \[…\]." (Womser-Hacker 2010, S.335) Den zweiten
 Punkt, die Benutzer\_innen-Orientierung, bezieht sich auf das
 pragmatische Informationsverständnis nach Kuhlen und damit auf die
 gesellschaftliche Bedeutung informationswissenschaftlicher Forschung.
 
-Bates tendiert zu der Bezeichnung *"Multi-Talented-People"*.
+Marcia Bates tendiert zu der Bezeichnung "Multi-Talented-People".
 Informationswissenschaftler\_innen sind, nach ihrer Aussage, Forschende
 die den Umgang mit unterschiedlichsten Methoden schätzen und sich durch
 Offenheit auszeichnen, im Vordergrund steht, dem x-disziplinären Prinzip
-folgend, das zu lösende Problem: (vgl. Bates 2007) *"\[T\]o solve the
-field's problems, a mix of methodologies are needed."* (Bates 2007) In
+folgend, das zu lösende Problem: (vgl. Bates 2007) "\[T\]o solve the
+field's problems, a mix of methodologies are needed." (Bates 2007) In
 Bezug auf die Unterscheidung wissenschaftlicher Forschung, und damit
 ihrer angewandten Methoden, in nomothetisch und ideographisch, trifft
-Bates die Aussage: *"Any LIS department that definitively rejects one or
-the other approach makes a foolish choice."* (Ebd. 2006, S. 7) Ähnlich
+Bates die Aussage: "Any LIS department that definitively rejects one or
+the other approach makes a foolish choice." (Ebd. 2006, S.7) Ähnlich
 wie Womser-Hacker sieht sie sowohl eine experimentelle als auch
 analysierende Vorgehensweisen als Grundlage
-informationswissenschaftlicher Forschung. *"It is more difficult to
+informationswissenschaftlicher Forschung. "It is more difficult to
 maintain openness to these two positions, rather than insisting on
 selecting one or the other, but it is also ultimately more productive
-and rewarding for the progress of the field.”* (Bates 2006, S. 7) In
+and rewarding for the progress of the field.” (Bates 2006, S.7) In
 Hinblick auf die Formen der X-Disziplinarität stellt sich, aufgrund der
 vielfältigen Themenschwerpunkte, die Frage, ob die unterschiedlichen
 Methoden innerhalb der Disziplin auch auf unterschiedliche
@@ -888,11 +887,11 @@ Methodenvielfalt bedingt.
 Steve Fuller et al. beschreiben die breite informationswissenschaftliche
 Methoden-Auswahl, welche sie ebenfalls in den unterschiedlichen
 Entstehungseinflüssen (geistes- sowie naturwissenschaftlich) begründet
-sehen, als: *"From its very origins, information science has been
+sehen, als: "From its very origins, information science has been
 involved with both technological and social problems leading to an
 epistemological duality \[…\] LIS researchers have tended to take the
 best methods at hand, without bothering much about the underlying
-epistemological assumptions therein.”* (Fuller et al. 2013, S. 2) Im
+epistemological assumptions therein.” (Fuller et al. 2013, S.2) Im
 Gegensatz zu Bates und Womser-Hacker kritisieren Fuller et al. eine
 fehlende Berücksichtigung der, den Methoden zugrundeliegenden,
 erkenntnistheoretischen Grundlagen. Mit Bezug auf Buckland und Cronin
@@ -900,21 +899,21 @@ bezeichnen sie die interdisziplinäre Natur der Informationswissenschaft
 – das beständige heranziehen unterschiedlicher Methoden und Theorien
 anderer Disziplinen ohne tiefere Hinterfragung – als Form von Schwäche,
 die die Disziplin als Ganzes in Frage stellt. (vgl. Fuller et al. 2013,
-S. 2f.) *"It is therefore important that LIS researchers articulate more
+S.2f.) "It is therefore important that LIS researchers articulate more
 clearly how they validate the scientific knowledge they purport to
-produce.”* (Fuller et al. 2013, S. 2)
+produce.” (Fuller et al. 2013, S.2)
 
 Für Buckland ist die Methodenvielfalt der Informationswissenschaft nicht
 auf ihre thematische Vielfalt zurückzuführen, sondern auf die
 gesellschaftliche Bedeutung der Disziplin. In diesem Zusammenhang kommt
-er zu der Aussage: *"Major social needs are typically complex. Whoever
+er zu der Aussage: "Major social needs are typically complex. Whoever
 undertakes to try to solve them needs to be methodologically versatile
-in a way that is inadequately captured by ‚interdisciplinary’.”*
-(Buckland 2013, S. 7) Buckland kommt damit zu dem Schluss, dass
+in a way that is inadequately captured by ‚interdisciplinary’.”
+(Buckland 2013, S.7) Buckland kommt damit zu dem Schluss, dass
 gesellschaftliche Probleme nicht durch Interdisziplinarität zu lösen
-wären. Er konstatiert: *"\[…\] the most productive position was to be
+wären. Er konstatiert: "\[…\] the most productive position was to be
 firmly grounded in one’s own field and to then go prospecting at or over
-other fields."* (Buckland 2013, S. 7) Allerdings beschreibt er mit
+other fields." (Buckland 2013, S.7) Allerdings beschreibt er mit
 dieser Aussage, ohne sie selbst als solche zu deuten, eine
 Interdisziplinarität – eine zeitlich begrenzte Kooperation, bei der die
 Grenzen für Methoden sowie Fragestellungen der eigenen Disziplin für
@@ -932,11 +931,11 @@ sich dabei in vielen Fällen nicht nur auf x-disziplinäre Konzepte,
 sondern ebenso auf den Einbezug der wissenschaftlichen und
 nichtwissenschaftlichen Öffentlichkeit. Wie Womser-Hacker mit Blick auf
 die anzuwenden Methoden hervorhebt, strebt die Informationswissenschaft
-stets eine "\[…\] *benutzerorientierte Sicht auf Information \[…\]*"
-(Womser-Hacker 2010, S. 335) an. Sie bezieht sich damit, auf den
-pragmatischen Informationsbegriff von Kuhlen: Um "*\[…\] subjektiv
+stets eine "\[…\] benutzerorientierte Sicht auf Information \[…\]" an. 
+(Womser-Hacker 2010, S.335) Sie bezieht sich damit, auf den
+pragmatischen Informationsbegriff von Kuhlen: Um "\[…\] subjektiv
 gesteuertes Verstehen von Information als in aktives Handeln gesetztes
-Wissen \[…\]*." (Kuhlen 2013, S. 19)
+Wissen \[…\]." (Kuhlen 2013, S.19)
 
 Kuhlen führt im Weiteren aus, dass die Informationswissenschaft als
 gesellschaftlich bedeutende Disziplin, ihr Forschungsvorhaben "\[…\] nur
@@ -944,14 +943,14 @@ in Zusammenarbeit (Import und Export) mit vielen anderen
 wissenschaftlichen Disziplinen wahrgenommen werden kann. Nichts wäre
 schädlicher als ein sich beschränktes Abkapseln, nur übertroffen durch
 einen hypertrophen Anspruch auf universelle Zuständigkeit für
-Information." (Kuhlen 2013, S. 19) Wiederholt sind Forderungen nach
+Information." (Kuhlen 2013, S.19) Wiederholt sind Forderungen nach
 "echter" (X)Disziplinarität in Zusammenhang mit der Notwendigkeit
 transwissenschaftlicher Erweiterung der Informationswissenschaft zu
 vernehmen, in welcher sich diese neu definiert und disziplinär
 strukturiert. So verlangen Kaden et al. eine "Redefinition ihres
 Selbstbilds \[…\] in Wechselwirkung zu anderen Disziplinen und
 extrawissenschaftlichen Gesellschaftsbereichen \[…\]." (Kaden et al.
-2012, S. 95)
+2012, S.95)
 
 Begriffe wie *Storytelling* und *Citizen Science, Crowdsourcing* *oder
 Crowdfunding* tauchen bereits seit einigen Jahren (auch) in
@@ -966,11 +965,11 @@ Wissen, der Wissensproduzent an Bedeutung gewinnt. Explizites Wissen ist
 formal artikuliertes, medial fixiertes, festgehaltenes Wissen. Es gilt
 als bewiesen und von der Gesellschaft akzeptiert. Implizites Wissen
 hingegen beschreibt nicht formal oder sprachlich fixiertes. Dieses ist
-personengebunden und nur schwer verbalisierbar - *"\[…\] das in
+personengebunden und nur schwer verbalisierbar - "\[…\] das in
 flexiblen Prozessformen des Wahrnehmens, Beurteilens, Erwartens,
 Denkens, Entscheidens oder Handelns verausgabte, durch das Subjekt
 allerdings nicht, nicht vollständig oder nicht angemessen explizierbare
-Wissen einer Person\[…\]".* (Porschen 2008, S. 57) Dieses Wissen kann
+Wissen einer Person\[…\]". (Porschen 2008, S.57) Dieses Wissen kann
 mit der Methode des *Storytelling* durch einen stattfindenden Prozess
 der Reflexion von Geschehenen gewonnen werden. Durch die Reflexion – die
 Abbildung von Verläufen in Form narrativer Erzählungen – wird implizites
@@ -978,13 +977,13 @@ Wissen sichtbar.
 
 Einer der Kritiker der Interdisziplinarität, Michael Buckland, sieht in
 der Transwissenschaft eine zusätzliche Chance für die
-Informationswissenschaft: *"\[…\] \[B\]eing interdisciplinary \[…\] is,
+Informationswissenschaft: "\[…\] \[B\]eing interdisciplinary \[…\] is,
 in general, to choose to occupy a weak position. \[…\] Fortunately for
-information studies, there is a strong alternative: societal need.”*
-(Buckland 2012, S. 7) Er hebt hier besonders die Bedeutung der
+information studies, there is a strong alternative: societal need.”
+(Buckland 2012, S.7) Er hebt hier besonders die Bedeutung der
 Informationskompetenz sowie der Informationsverhaltensforschung hervor.
 *"Enabling people to become better informed \[…\] is, or should be the
-central concern of information studies \[…\].”* (Buckland 2012, S. 8)
+central concern of information studies \[…\].” (Buckland 2012, S.8)
 
 ### Fazit
 
@@ -999,11 +998,11 @@ Hinterfragung der Konzepte zurückzuführen, welche besonders durch eine
 ungenügende terminologische Klärung, polyseme sowie synonyme, und eine
 fehlende Reflexion bereits vorliegender informationswissenschaftlicher
 Begründungen zu erkennen ist. Damit wird ein grundlegendes Desiderat
-bestätigt: *"Im Normalfall wird ein allgemeines, eben unterbestimmtes
+bestätigt: "Im Normalfall wird ein allgemeines, eben unterbestimmtes
 Verständnis von Interdisziplinarität stillschweigend vorausgesetzt oder
 hinsichtlich der terminologischen Regelung auf ältere Texte verwiesen,
 ohne dass jedoch die darin enthaltenen Regelungen kritisch geprüft
-würden."* (Balsiger 2005, S. 137) Das eigentliche Problem ist nicht die
+würden." (Balsiger 2005, S.137) Das eigentliche Problem ist nicht die
 Kooperation, sondern die fehlende disziplinäre Basis, welche das
 Grundkonzept disziplinübergreifender Zusammenarbeit darstellt.
 
@@ -1013,15 +1012,15 @@ Abschottung wäre demnach ebenso verfehlt, wie die aktuelle disziplinäre
 Undefinierbarkeit. Eine umfassende Bearbeitung dieses Gegenstandes
 erfordert eine Zusammenarbeit unterschiedlichster Disziplinen und
 darüber hinaus den Einbezug der Öffentlichkeit. Dabei darf nicht
-vergessen werden, dass es *"\[…\] keine interdisziplinäre Kompetenz
+vergessen werden, dass es "\[…\] keine interdisziplinäre Kompetenz
 \[gibt\], die disziplinäre Kompetenz ersetzen könnte: interdisziplinäre
 Kompetenz setzt disziplinäre Kompetenz voraus." (Mittelstraß 1987, S.
-154)* Demzufolge ist, um in einer übergreifenden Kooperation einen
+154) Demzufolge ist, um in einer übergreifenden Kooperation einen
 Mehrwert leisten zu können, anstatt lediglich andere Konzepte
 "einzuverleiben", eine disziplinäre Fokussierung notwendig. Denn
-*"\[n\]ichts wäre schlimmer als ein sich beschränktes Abkapseln, nur
+"\[n\]ichts wäre schlimmer als ein sich beschränktes Abkapseln, nur
 übertroffen durch einen hypertrophen Anspruch auf universelle
-Zuständigkeit auf Information."* (Kuhlen 2013, S. 19)
+Zuständigkeit auf Information." (Kuhlen 2013, S. 19)
 
 ### Literatur
 
@@ -1067,7 +1066,7 @@ science be? In: *J. Am. Soc. Inf. Sci.* 63 (1), S. 1–7.
 
 Burghardt, Manuel; Wolff, Christian; Womser-Hacker, Christa (2015):
 Informationswissenschaft und Digital Humanities. In: *Information -
-Wissenschaft & Praxis* 66 (5-6).
+Wissenschaft & Praxis* 66 (5-6). S. 285.
 
 Capurro, Rafael (2001): Einführung in die Informationswissenschaft.
 Online verfügbar unter <http://www.capurro.de/iwinhalt.html>, zuletzt
