@@ -68,7 +68,7 @@ einbringen.
 
 ### Postinternet / postdigitale Wissenschaften - eine Begriffsbestimmung
 
-Die Idee, Begriff und Bezeichnung des Post-Digitalen kommen zunächst aus
+Die Idee, Begriff und Bezeichnung des Post-Digitalen kommt zunächst aus
 der Kunst beziehungsweise eigentlich aus der elektronischen Musik, woran
 Florian Cramer unlängst erinnerte. (Cramer, 2016) Abstrakter und im
 gesellschaftlichen Rahmen bedeutet es, dass das Digitale
@@ -107,12 +107,12 @@ nicht nur angenehme bekannte Muster zurück.
 Die Aufgabe von Kritik, wie auch wir von LIBREAS sie verstehen, ist,
 beständig daran zu erinnern und auch daran, dass eine ideologische
 Hingabe gleich welcher Art, also egal ob an kommunistische Manifeste,
-den Apple-Chic , ein großes Amerika oder die Open-Access-Bewegung früher
+den Apple-Chic, ein großes Amerika oder die Open-Access-Bewegung früher
 oder später die Ausfahrt zu einer handhaberen Realität verpassen müssen.
 Selten wurde das in einer Ballung deutlicher als in diesem eigenartigen
 Jahr 2016.
 
-### Post-Internet=Die Allgegenwart der Commons?
+### Post-Internet = Die Allgegenwart der Commons?
 
 Das spielt deutlich mit einem weiteren von Florian Cramer thematisierten
 Aspekt zu Post-Internet- und Post-Medienkulturen zusammen:
@@ -183,7 +183,7 @@ neokommunistischen Utopien wie der von Hito Steyer in ein ganz anderes
 > to build a few others next to it?" (Steyerl, 2013)
 
 Wir müssen an dieser Stelle die praktischen Hürden dieses Gedankenspiels
-außen vorlassen. Es geht einzig darum, zu registrieren, dass das
+außen vor lassen. Es geht einzig darum, zu registrieren, dass das
 Post-Internet einen politischeren Kern enthalten kann, als man zunächst
 unter anderem auch nach der Inaugenscheinnahme entsprechend gelabelter
 Kunstschauen vermuten möchte.
@@ -192,10 +192,10 @@ Kunstschauen vermuten möchte.
 
 Aus der Sicht der Bibliothekswissenschaft steht die Informationsethik
 wieder ganz vorn in der Verantwortungskette. Bekanntlich schuftet sie
-sehr engagiert zumindest auf dem Open-Access-Feld und zwar an doppelter
+sehr engagiert, zumindest auf dem Open-Access-Feld und zwar an doppelter
 Front: Den wissenschaftlichen Großverlagen, die es vermochten, sich in
 aller pop- und postmodernen Raffinesse ein progressives Thema
-anzueignen, um auf dem Grundnarrativ Geschäftsmodelle aufzupropfen, die
+anzueignen, um auf dem Grundnarrativ Geschäftsmodelle aufzupfropfen, die
 unter dem Strich wieder Bilanzen erscheinen lassen, die in den 1990er
 Jahren mit der Bezeichnung Zeitschriftenkrise erst zur Entstehung der
 Open-Access-Bewegung führten. (Und die mit Schattenbibliotheken dort
@@ -256,10 +256,10 @@ man Katja Kwastek widersprechen, wenn sie schreibt, "dass das Digitale
 auch andere Diskursformen mit sich bringt"? (Kwastek, 2016, S. 80)
 Genaugenommen ist das ein Gemeinplatz und auch nicht ganz stimmig, denn
 das Digitale manipuliert bestehende Praxen des Diskurses. Die
-Herausforderung besteht nicht zuletzt für digitale Wissenschaft darin,
-die entsprechende Prozesse und Auswirkungen zu verstehen und in der
+Herausforderung besteht nicht zuletzt für die digitale Wissenschaft darin,
+die entsprechenden Prozesse und Auswirkungen zu verstehen und in der
 Folge zu entscheiden, ob man diesen folgen oder sie gestalten möchte.
-Will man sie gestalten, ist eine bedeutete Facette der
+Will man sie gestalten, ist eine bedeutende Facette der
 Post-Digital-Humanities die Auseinandersetzung mit der Frage, wie
 Wissenschaft digital kommuniziert. Denn was Katja Kwastek bei ihrer
 Reflexion über eine "Postdigitale Kunstwissenschaft?" beschreibt, ist
