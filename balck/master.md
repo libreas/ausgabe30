@@ -412,7 +412,7 @@ Informationswissenschaft stellte, daraus resultierend, neben der
 technischen Komponente den Menschen (als kognitives Subjekt) in den
 Mittelpunkt ihrer Forschung. In dieser Phase entwickelte sich eine
 systemorientierte, technische Sicht auf Information, welche durch eine
-kognitive Sicht Ergänzung fand. (vgl. Kuhlen 2013, S. 12ff.)
+kognitive Sicht Ergänzung fand. (vgl. Kuhlen 2013, S.12ff.)
 
 \[4\] Praxis-Paradigma
 
@@ -430,7 +430,7 @@ und sein Informationsbedürfnis rücken vermehrt in den Mittelpunkt. Zudem
 orientiert sich die Forschungstätigkeit der Informationswissenschaft, in
 theoretischer Hinsicht, an situativen und sozialen Praxisgegebenheiten
 und damit an dem direkten Gebrauch von Informationen. (vgl. Kuhlen 2013,
-S. 13)
+S.13)
 
 ![Vier-Phasen Entwicklung der Informationswissenschaft](img/Phasen_IW.jpg)
 
@@ -442,10 +442,10 @@ technische Seite, die mit den aktuellen Entwicklungen in direktem
 Verhältnis steht, darf in dieser Betrachtung jedoch nicht außer Acht
 gelassen werden: Informationswissenschaft als Geistes- und
 Sozialwissenschaft mit Blick auf (und direkter Beeinflussung durch)
-aktuelle technische Entwicklungen. Kuhlen plädiert deshalb, in
+aktuelle technische Entwicklungen. Kuhlen plädierte deshalb bereits 2013, in
 Verbindung mit der aktuellen Verortung der Informationswissenschaft, für
-eine Kombination der dritten und vierten Phase. (vgl. Kuhlen 2013, S.
-12ff.) Und auch Rafael Capurro weist darauf hin, dass sich die
+eine Kombination der dritten und vierten Phase. (vgl. Kuhlen 2013, S.12ff.) 
+Und auch Rafael Capurro weist darauf hin, dass sich die
 Informationswissenschaft in ihrer Tätigkeit auf die gesellschaftlichen
 Fragen konzentrieren sollte. Die technischen Aspekte sollten zwar
 betrachtet, aber nicht als Hauptaufgabe der Forschung angesehen werden,
@@ -456,7 +456,7 @@ Informatik unterscheiden. (vgl. Treude, 2001)
 
 Es wurde zuvor festgestellt, dass sich die Informationswissenschaft mit
 "Informationen" auseinandersetzt; dabei begrenzt sie sich auf
-ausgewählte Ebenen des Begriffs: Sie vertritt, ein pragmatisches
+ausgewählte Ebenen des Begriffs: Sie vertritt ein pragmatisches
 Verständnis von Information und widmet sich, aus dieser
 handlungsrelevanten Sicht heraus, konkret der Nutzung und Nutzbarmachung
 von Informationen. Um dem Begriff der Information gerecht zu werden,
@@ -478,11 +478,11 @@ wissenschaftssoziologische und außerwissenschaftliche Begründungen.
 
 **Wissenschaftshistorische Begründungen**
 
-Die Bedingungen aus denen die Informationswissenschaft entstand wurden
+Die Bedingungen aus denen die Informationswissenschaft entstand, wurden
 bereits 1968 von Harold Borko als Grund für ihre Interdisziplinarität
-beschrieben: *"\[...\] it is an interdisciplinary science derived from
+beschrieben: "\[...\] it is an interdisciplinary science derived from
 and related to such fields as mathematics, logic, linguistics,
-psychology \[...\]."* (Borko, 1968, S. 1) Begründet wird die
+psychology \[...\]." (Borko, 1968, S.1) Begründet wird die
 Interdisziplinarität unter anderem durch die Entstehung aus und der sich
 daraus ergebenden Verbindungen zu anderen Disziplinen. Borko bezieht
 sich auf die erste Phase der Entstehung der Informationswissenschaft, in
@@ -496,11 +496,11 @@ Informationswissenschaft als "von Natur aus interdisziplinär". Buckland
 et al. wiesen kürzlich darauf hin, dass diese Aussage in aktuellen
 Diskussionen von den meisten Vertreter\_innen als gegeben angesehen und
 ohne selbige zu hinterfragen, übernommen wird. (vgl. Arafat et al. 2014,
-S. 1) In den 1960er Jahren hatte die Interdisziplinarität ihren
+S.1) In den 1960er Jahren hatte die Interdisziplinarität ihren
 Höhepunkt innerhalb wissenschaftstheoretischer und -politischer
-Diskussionen und fand auch in der Informationswissenschaft als *"\[…\]
+Diskussionen und fand auch in der Informationswissenschaft als "\[…\]
 euphorisches Schlagwort einer wissenschaftskritischen Einstellung
-\[…\]"* (Ryser 2016) seine Verwendung.
+\[…\]" (Ryser 2016) seine Verwendung.
 
 Neben der Interdisziplinarität finden, in Hinblick auf die
 wissenschaftshistorischen Begründungen, weitere x-disziplinäre Konzepte
@@ -511,72 +511,72 @@ Philosophie. Philosophie, als Metawissenschaft betrachtet, hinterfragt
 das von der Wissenschaft hervorgebrachte Wissen, weshalb sich für jede
 wissenschaftliche Disziplin Anknüpfungspunkte an philosophische
 Erkenntnisse ergeben. Sie begründen ihre Aussage wie folgt:
-*"\[Information Science has\] links with all other disciplines, since
+"\[Information Science has\] links with all other disciplines, since
 all have some information and knowledge extensions, and hence
-information scientists may contribute to all."* (Bawden, Robinson 2013,
-S. 6) Bawden und Robinson nehmen damit direkt Bezug auf Marcia J. Bates‘
+information scientists may contribute to all." (Bawden, Robinson 2013,
+S.6) Bawden und Robinson nehmen damit direkt Bezug auf Marcia J. Bates‘
 Modell der Meta-Disziplinen, welches die Informationswissenschaft als
-"orthogonal" beschreibt: *"The "orthogonal" disciplines, or,
+"orthogonal" beschreibt: "The "orthogonal" disciplines, or,
 "meta-disciplines," shape the subject matter of all the traditional
 disciplines according to the social purpose of the meta-discipline
-\[…\]."* (Bates 2007) Der Begriff Meta-Disziplin wird hier, ähnlich dem
+\[…\]." (Bates 2007) Der Begriff Meta-Disziplin wird hier, ähnlich dem
 transdisziplinären Konzept von Stichweh, ausgelegt als: Eine Disziplin,
 die über allen Disziplinen steht und die Funktion einer
-*"disziplinübergreifende Ressourcen"* einnimmt. Nach diesem Prinzip ist
+"disziplinübergreifende Ressourcen" einnimmt. Nach diesem Prinzip ist
 die Informationswissenschaft eine übergreifende Instanz, welche als
 Grundlage für diverse Disziplinen dient; Verbindungsglied: die
 Information.
 
 Werner Kunz und Horst Rittel distanzierten sich bereits 1972 deutlich
-von der Bezeichnung Metawissenschaft: *"Die Informationswissenschaften
+von der Bezeichnung Metawissenschaft: "Die Informationswissenschaften
 sind keine Metawissenschaften \[…\]. Sie erheben nicht den Anspruch,
-über den Wissenschaften zu stehen."* (Kunz, Rittel 1972, S. 12) Sie
-plädieren stattdessen für die Bezeichnung transdisziplinär: "*Sie sind
+über den Wissenschaften zu stehen." (Kunz, Rittel 1972, S.12) Sie
+plädieren stattdessen für die Bezeichnung transdisziplinär: "Sie sind
 gewissermaßen ‚quer‘ zu den Objektbereichen der Disziplinen orientiert,
-weshalb man sie auch als transdisziplinär bezeichnet."* (Ebd. 1972, S.
-12) Auch in aktuellen Theorien ist wieder eine Zunahme des Begriffs
+weshalb man sie auch als transdisziplinär bezeichnet." (Ebd. 1972, S.12)
+Auch in aktuellen Theorien ist wieder eine Zunahme des Begriffs
 Transdisziplinarität zu erkennen, so gewinnt sie als
-*"wissenschaftspolitisch\[es\] neues Schlagwort"* (Hobohm 2015, S.5) an
-Zuspruch. Die Informationswissenschaft versucht, *"da mit einer
+"wissenschaftspolitisch\[es\] neues Schlagwort" (Hobohm 2015, S.5) an
+Zuspruch. Die Informationswissenschaft versucht, "da mit einer
 Selbstzuschreibung als Interdisziplin mittlerweile die akademischen
-Pfründe verloren gehen \[sic\] \[…\]"* (Ebd. 2015, S. 5), sich, aus der
+Pfründe verloren gehen \[sic\] \[…\]" (Ebd. 2015, S.5), sich, aus der
 Not heraus, als Transdisziplin zu etablieren.
 
 Hans-Christoph Hobohm beschreibt die Transdisziplinarität in diesem
 Zusammenhang nicht als "quer" zu den Disziplinen, sondern, ähnlich der
-Definition von Mittelstraß, als eine Zusammenarbeit die "*dort \[…\]
+Definition von Mittelstraß, als eine Zusammenarbeit die "dort \[…\]
 notwendig \[wird\], wo i. w. S. globale Probleme zu einer Art
-übergreifenden Fachlichkeit führen \[…\]"* (Ebd. 2015, S. 5) Dieser
+übergreifenden Fachlichkeit führen \[…\]." (Ebd. 2015, S.5) Dieser
 disziplinübergreifende Zusammenschluss generiert über einen nicht genau
-zu definierenden Zeitraum eine Transdisziplin. *"Im Falle der
-Informationswissenschaften (im Plural) \[…\]"* so Hobohm *"\[…\] wage
+zu definierenden Zeitraum eine Transdisziplin. "Im Falle der
+Informationswissenschaften (im Plural) \[…\]", so Hobohm, "\[…\] wage
 ich zu behaupten, dass wir hierzu gerade dabei sind am eigenen Leib,
-dieses Phänomen zu beobachten."* (Ebd. 2015, S. 5) Die sich auflösenden
+dieses Phänomen zu beobachten." (Ebd. 2015, S.5) Die sich auflösenden
 Disziplinen sind in diesem Fall die Bibliotheks-, Dokumentations- und
 Archivwissenschaft. In Frage steht jedoch, ob es sich bei diesen um
 eigenständige Disziplinen oder um Anwendungsfelder der
-Informationswissenschaft handelt: *"One area of debate has been the
+Informationswissenschaft handelt: "One area of debate has been the
 relation with 'adjacent' disciplines such as librarianship, archiving,
 information systems and computer science; views here have ranged from
 such disciplines being the same thing, entirely distinct, distinct but
 interdependent, distinct but naturally linked and part of a composite
-discipline."* (Robinson, Karamuftuoglu 2010) So werden die Disziplinen
+discipline." (Robinson, Karamuftuoglu 2010) So werden die Disziplinen
 auch bei Hobohm mal als Grund-, mal als Subdisziplinen bezeichnet. Als
 wissenschaftliche Subdisziplinen müssten sich diese zu irgendeiner Zeit
 von der Informationswissenschaft abgespalten haben und wären dieser in
 der hierarchischen Ordnung des wissenschaftlichen Systems untergeordnet.
-Die *"übergreifende Fachlichkeit"* würde eine Entdifferenzierung – die
+Die "übergreifende Fachlichkeit" würde eine Entdifferenzierung – die
 Wiederherstellung der ursprünglichen Disziplinarität – beschreiben, was
 wiederum dem Ursprungsgedanken x-disziplinärer Konzepte – der
-Wiederherstellung der *"Einheit der Wissenschaft"* – entspräche.
+Wiederherstellung der "Einheit der Wissenschaft" – entspräche.
 
 Hjørland beschreibt X-Disziplinarität, dieser Idee folgend, als einen
 Prozess, welcher mit der Multidisziplinarität beginnt und sich am Ende,
 als Ergebnis einer transdisziplinären Kooperation, als eigene Disziplin
-formiert: *"\[…\] \[S\]ocial fields are dynamic and changing. LIS for
+formiert: "\[…\] \[S\]ocial fields are dynamic and changing. LIS for
 example, can be viewed as a field that started as a multidisciplinary
 field \[…\] which is developing towards a monodiscipline in is own
-right."* (Hjørland 2014, S. 207) Im Unterschied zu Hobohm hat die
+right." (Hjørland 2014, S.207) Im Unterschied zu Hobohm hat die
 Informationswissenschaft in dieser Betrachtung bereits die
 x-disziplinäre Entwicklung abgeschlossen und sich als Disziplin
 etabliert. Somit bestand die Informationswissenschaft nicht als
@@ -589,8 +589,8 @@ macht aber gleichzeitig deutlich, dass es sich um eine, von der
 Informationswissenschaft ausgehende, einseitige Kooperation – und damit
 "Nicht-Kooperation" – handelt. (vgl. Engerer 2012) So beschreibt er die
 Linguistik unter der Überschrift "Das transdisziplinäre Paradigma: die
-Einverleibung linguistischer Konzepte" als *"aktive Spenderdisziplin"*
-(Engerer, 2012, S. 81). Die Erweiterung erfolgte damit nicht durch
+Einverleibung linguistischer Konzepte" als "aktive Spenderdisziplin"
+(Engerer, 2012, S.81). Die Erweiterung erfolgte damit nicht durch
 kooperativen Zusammenschluss oder als, wie für die Interdisziplinarität
 kennzeichnend, temporäre Erweiterung des eigenen disziplinären Horizonts
 durch Überschreitung der Grenzen, bezogen auf ein spezifisches Problem
@@ -616,7 +616,7 @@ Anzahl der Artikel von Informationswissenschaftler\_innen innerhalb der
 Publikationen anderer Disziplinen, sowie die Veröffentlichungen von
 Vertreter\_innen anderer Disziplinen innerhalb
 informationswissenschaftlicher Publikationen hervor. (vgl. Kuhlen, 2013,
-S. 11f.) Die Aussage der Multidisziplinarität steht unkommentiert im
+S.11f.) Die Aussage der Multidisziplinarität steht unkommentiert im
 Raum: Es ist nicht ersichtlich in welcher Weise und Intensität eine
 Zusammenarbeit der unterschiedlichen Akteure erfolgte oder ob die
 Artikel einen Mehrwert für die jeweils andere Disziplin hatten.
@@ -631,12 +631,12 @@ Multidisziplinarität.
 
 Kuhlen bezieht sich mit der Aussage jedoch nicht auf die eigentliche
 Publikationstätigkeit. Stattdessen stellt er im weiteren Textverlauf
-eine andere Begründung für die Diversität auf: *"Die für die
+eine andere Begründung für die Diversität auf: "Die für die
 Informationswissenschaft festzustellende Multidisziplinarität ist \[…\]
 sicherlich der Attraktivität der Disziplin, da sie einer Vielzahl von
 WissenschaftlerInnen aus ursprünglich anderen Disziplinen ein
-attraktives Betätigungsfeld bietet \[…\]".* (Kuhlen 2013, S. 12)
-Entscheidender Faktor ist demnach die *"Attraktivität der Disziplin"*
+attraktives Betätigungsfeld bietet \[…\]". (Kuhlen 2013, S.12)
+Entscheidender Faktor ist demnach die "Attraktivität der Disziplin"
 für Wissenschaftler\_innen anderer Disziplinen und eine daraus
 resultierende Diversität von informationswissenschaftlichen
 Publikationen. Es stellt sich somit die Frage, ob sich
@@ -668,13 +668,13 @@ Explizit negativ ausgelegt wird die Diversität der Herkunftsdisziplinen
 von Kaden et al. Diese stellen diesen Fakt jedoch unter das Schlagwort
 Interdisziplinarität. Die Vielfalt kennzeichnet sich, so Kaden et al.,
 durch eine fehlende gemeinsame Linie und Grundausrichtung innerhalb der
-Disziplin. (vgl. Kaden et al. 2012, S. 93) *"Ein generelles Desiderat
+Disziplin. (vgl. Kaden et al. 2012, S.93) "Ein generelles Desiderat
 ist nach wie vor die Verortung des Faches im disziplinären Spektrum
 hinsichtlich Methode, Argumentationskonventionen, Theoriegerüst und
 Kommunikationsformen. \[…\] Deutlich ist, dass \[…\] in hohem Maße die
 individuelle Wissenschaftsbiografie der in der Informationswissenschaft
 Aktiven eine Rolle spielt, die zum überwiegenden Teil einen
-interdisziplinären Hintergrund haben."* (Ebd. 2012, S. 93) Kaden et al.
+interdisziplinären Hintergrund haben." (Ebd. 2012, S.93) Kaden et al.
 beschreiben damit ein unzusammenhängendes Nebeneinander von Methoden und
 Theorien geprägt durch unterschiedlichste Ursprungsdisziplinen. Die
 Aussage bezieht sich vordergründig auf die deutsche Hochschullandschaft
@@ -682,26 +682,26 @@ Aussage bezieht sich vordergründig auf die deutsche Hochschullandschaft
 Lehrenden – woraus ein diverses Ausbildungs- und Forschungsprogramm
 resultiert. Kritisiert wird nicht die Diversität, sondern eine fehlende
 Zusammenarbeit und spezifische Schwerpunktlegung. (vgl. Kaden et al.,
-2012, S. 93) Beschrieben wird demnach das Fehlen und nicht das Bestehen
+2012, S.93) Beschrieben wird demnach das Fehlen und nicht das Bestehen
 von Inter- oder besser Transdisziplinarität.
 
 Auch Kuhlen zweifelt an der Sinnhaftigkeit "inter- bzw.
 multidisziplinärer" informationswissenschaftlicher Studiengänge, die
-eher *"Spezialthemen deren primäre Heimat andere Fächer sind*" (Kuhlen
-2013, S. 12) behandeln, anstatt disziplinäres Grundlagenwissen zu
+eher "Spezialthemen deren primäre Heimat andere Fächer sind" (Kuhlen
+2013, S.12) behandeln, anstatt disziplinäres Grundlagenwissen zu
 vermitteln. So lehrt die Ausbildung "genuinen"
 Informationswissenschaftler\_innen lediglich Orientierungswissen. (Ebd.
-2013, S. 12) Hobohm wählt, für die Umschreibung des Masters
+2013, S.12) Hobohm wählt, für die Umschreibung des Masters
 Informationswissenschaften der Fachhochschule Potsdam, die Bezeichnung
-*"Wissenschafts- und Fachkonglomerat"*, welche, wie er weiter ausführt,
+"Wissenschafts- und Fachkonglomerat", welche, wie er weiter ausführt,
 für die aktuelle Berufspraxis nur selten verständlich ist. (vgl. Hobohm
-2015, S. 1f.) So zeigt sich ein Bild, das die Studiengänge im
+2015, S.1f.) So zeigt sich ein Bild, das die Studiengänge im
 Allgemeinen und die Hochschullandschaft im Besonderen als in sich
 zerrissen abbildet. Das Problem der Informationswissenschaft – eine
 fehlende Identität und Schwerpunktlegung – beginnt somit bereits in der
-wissenschaftlichen Ausbildung. *"The danger in this is that students are
+wissenschaftlichen Ausbildung. "The danger in this is that students are
 not developing a professional identity and professional competencies
-\[…\]."* (Hjørland 2014, S. 208) Diese wiederum sind zentrale
+\[…\]." (Hjørland 2014, S.208) Diese wiederum sind zentrale
 Voraussetzungen für funktionierende x-disziplinäre Arbeit.
 
 Kognitive Ebene:
@@ -709,15 +709,16 @@ Kognitive Ebene:
 Die fehlende Schwerpunktlegung innerhalb des vielfältigen
 Forschungsgebiets spiegelt sich im Weiteren in der Diversität der
 behandelten Themen der Informationswissenschaft wider. Mit der Aussage
-*"Deutlich ist für die Informationswissenschaft eine interdisziplinäre
-Perspektive auszumachen."* (Kuhlen, 2013, S. 11) beschreibt Kuhlen neben
-einer Multidisziplinarität der Informationswissenschaft, eine durch die
-Themenvielfalt begründete Interdisziplinarität. Er nimmt Bezug auf eine
-eigens durchgeführte Untersuchung der drei zentralen Zeitschriften und
-der in diesen erschienenen Artikel. Als Beispiele interdisziplinärer
-Themenbereiche nennt er: Wissensorganisation und -produktion,
-Informationsmanagement und -politik sowie Informationsethik und
--theorie. (vgl. Kuhlen 2013, S. 11) Alle Bereiche stellen
+"Deutlich ist für die Informationswissenschaft eine interdisziplinäre
+Perspektive auszumachen", beschreibt Kuhlen neben einer Multidisziplinarität 
+der Informationswissenschaft, eine durch die
+Themenvielfalt begründete Interdisziplinarität. (Kuhlen, 2013, S.11)
+Er nimmt Bezug auf eine eigens durchgeführte Untersuchung der drei 
+zentralen Zeitschriften und der in diesen erschienenen Artikel. 
+Als Beispiele interdisziplinärer Themenbereiche nennt er: 
+Wissensorganisation und -produktion,Informationsmanagement 
+und -politik sowie Informationsethik und -theorie. 
+(vgl. Kuhlen 2013, S.11) Alle Bereiche stellen
 informationswissenschaftliche Themen dar, welche für die Gesellschaft
 sowie für andere Disziplinen relevant sind und eine gemeinschaftliche
 und übergreifende Zusammenarbeit erfordern. Deutlich wird durch diese
@@ -733,29 +734,29 @@ fanden dabei heraus, dass innerhalb der insgesamt 54 Kapitel, 97 % der
 zitierten Publikationen (verwendete Literatur in den unterschiedlichen
 Kapiteln, insgesamt 1.868 Literaturstellen) im gesamten Handbuch nur
 eine Zitation erhielten, 2,6 % erhielten zwei und nur 0,4 % drei
-Zitationen. (vgl. Lewandowski, Haustein 2015, S. 93-102) Dies zeigt eine
+Zitationen. (vgl. Lewandowski, Haustein 2015, S.93ff.) Dies zeigt eine
 unterschiedliche Schwerpunktlegung und starke Spezialisierung innerhalb
-der Informationswissenschaft: *"German-language Information Scientist
-work in areas rather distant from one another."* (Ebd. 2015, S. 102)
+der Informationswissenschaft: "German-language Information Scientist
+work in areas rather distant from one another." (Ebd. 2015, S.102)
 Zudem wird eine fehlende Bezugnahme untereinander und damit ein
 fehlender Diskurs innerhalb der deutschsprachigen *Scientific
 Community*, zum Teil resultierend aus einem weiten Themenspektrum,
-deutlich: *"Authors reference their colleagues‘ work only moderately."*
-(Ebd. 2015, S. 102) Die Untersuchung zeigt ein breites Feld
+deutlich: "Authors reference their colleagues‘ work only moderately."
+(Ebd. 2015, S.102) Die Untersuchung zeigt ein breites Feld
 informationswissenschaftlicher Themen, welches aufgrund fehlender
 Bezugnahme sowie fehlender Zusammenführung einzelner Aspekte keinen
 gemeinsamen Rahmen schafft.
 
 Innerhalb der Informationswissenschaft führt die Allgegenwärtigkeit
 ihres Gegenstandes zu unterschiedlichen Wahrnehmungen der disziplinären
-Verantwortlichkeiten. *"We could say that there are not only centripetal
+Verantwortlichkeiten. "We could say that there are not only centripetal
 currents within LIS, which are directed towards constituting the field
 as a single, more-or-less unified discipline, but also a centrifugal
 tendency, which relates the problem studied in the field to the context
 of other disciplines and so promotes intradisciplinary dispersion rather
-than unity."* (Hjørland, 2014, S. 207) Hjørland verwendet den Begriff
-der Intradiszplinarität – *"intra"* bedeutet *"innerhalb*" – und drückt
-somit folgendes aus: eine innerdisziplinäre, thematische Zerstreuung der
+than unity." (Hjørland, 2014, S.207) Hjørland verwendet den Begriff
+der Intradiszplinarität und drückt somit folgendes aus: 
+eine innerdisziplinäre, thematische Zerstreuung der
 Informationswissenschaft aufgrund der Untersuchung von Themen rund um
 den Gegenstand Information aus dem Kontext anderer Disziplinen.
 
@@ -765,7 +766,7 @@ betrachtet werden. International liegt der Fokus seit einiger Zeit auf
 der "Wiederentdeckung" der eigenen Disziplin. Hjørland sieht in Bezug
 auf eine interdisziplinäre Ausrichtung weiter die Übernahme von Themen
 anderer Disziplinen als problematisch, besonders in Bezug auf die eigene
-disziplinäre Weiterentwicklung und Anerkennung. *"If the field is
+disziplinäre Weiterentwicklung und Anerkennung. "If the field is
 considered weak, if students and teachers in the field cannot find
 useful knowledge within LIS, they tend to use knowledge from other
 fields instead, thus contributing to the centrifugal tendencies and the
@@ -773,7 +774,7 @@ erosion of the field. \[…\] Internal connections may, however, be
 opposed by external forces such as the tendency to use fashionable terms
 and topics imported from other fields and from institutional pressure to
 do things other than what is needed from the perspective of building the
-discipline.”* (Hjørland 2013, S. 21) Mittelstraß beschreibt
+discipline.” (Hjørland 2013, S.21) Mittelstraß beschreibt
 Interdisziplinarität nicht nur als problemorientierte
 Grenzüberschreitung, sondern ebenso als Motiv disziplinärer
 Einfallslosigkeit. Diese äußert sich durch eine "interdisziplinäre"
@@ -782,7 +783,7 @@ wissenschaftsinternen Gründen oder aus Einfallslosigkeit an ihre Grenzen
 und damit unter Legitimationsdruck, lässt sich diese interdisziplinär
 erweitern. Wird jedoch, die Erweiterung betreffend, kein gemeinsamer
 Rahmen festgelegt, ist laut Mittelstraß Folgenlosigkeit das Resultat.
-(vgl. Mittelstraß 1997, S. 76) Die neuen Erweiterungen führen zu
+(vgl. Mittelstraß 1997, S.76) Die neuen Erweiterungen führen zu
 einzelnen Spezialisierungen innerhalb einer Disziplin. Das Ergebnis ist
 eine "negative Interdisziplinarität", die die disziplinäre Blindheit
 fördert, anstatt ihr entgegenzuwirken, da sich die Disziplin innerhalb
@@ -792,20 +793,20 @@ festzustellen: eine Spezialisierung und damit einhergehende
 Unübersichtlichkeit durch individuelle Erweiterung.
 
 Hobohm hingegen vertritt die Meinung, dass informationswissenschaftliche
-Themen einer *"zentrifugalen Sogwirkung"* ausgesetzt sind und spricht,
+Themen einer "zentrifugalen Sogwirkung" ausgesetzt sind und spricht,
 bezugnehmend auf Bourdieus Disziplinverständnis als persönliche und
 ökonomische Machtfelder, von einer Usurpierung
 informationswissenschaftlicher Studienobjekte und -gebiete durch andere
-Disziplinen. *"Unsere Studienobjekte und -gebiete sind letztlich so
+Disziplinen. "Unsere Studienobjekte und -gebiete sind letztlich so
 attraktiv, dass sie unter technologischer und/oder ökonomischer Prämisse
-von anderen usurpiert werden."* (Hobohm 2015, S. 4) Ähnliche
+von anderen usurpiert werden." (Hobohm 2015, S.4) Ähnliche
 usurpierungstheoretische Aussagen sind auch bei Almeida et al. zu
 finden. Die rasante Zunahme von Wissen und Information durch den
-technologischen Wandel *"\[…\] could favour a new inspiration to the IS
+technologischen Wandel "\[…\] could favour a new inspiration to the IS
 field. \[…\] But what really occurred is the gradual migration of
-genuine IS research objects to other fields.”* (Almeida et al. 2015, S.
-58) Die Informationswissenschaft verkommt, so Almeida et al., weiter zu
-einem *"mere and passive spectator”*.
+genuine IS research objects to other fields.” (Almeida et al. 2015, S.58)
+Die Informationswissenschaft verkomme, so Almeida et al., weiter zu
+einem "mere and passive spectator”.
 
 Als Beispiel für die sichtbare Usurpierung
 informationswissenschaftlicher Themen nennt Hobohm die *Digital
