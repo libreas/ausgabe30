@@ -319,6 +319,10 @@ Sept.-Okt.2016. S.68-81
 LIBREAS.Redaktion: Post-Digital Humanities aus bibliotheks- und
 informationswissenschaftlicher Sicht. In: LIBREAS. Weblog, 04.05.2016 <https://libreas.wordpress.com/2016/05/04/libreas-cfp-digital-humanities/>.
 
+Eric Steinhauer: Die Nutzung einer "Schattenbibliothek" im Licht des Urheberrechts.
+Einige Überlegungen am Beispiel von Sci-Hub - ein Diskussionspapier. 14.12.2016
+https://ub-deposit.fernuni-hagen.de/receive/mir_mods_00000825
+
 Hito Steyerl: Too Much World: Is the Internet Dead? In: e-flux Journal
 \#49 - November 2013
 <http://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/>
