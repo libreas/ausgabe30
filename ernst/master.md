@@ -868,7 +868,7 @@ Fink 2016, S. 653-667.*[^61]
     [*http://irights-lab.de/assets/Uploads/Documents/Publications/zweitveroeffentlichungsrecht-20150425.pdf*](http://irights-lab.de/assets/Uploads/Documents/Publications/zweitveroeffentlichungsrecht-20150425.pdf)
     \[Stand: 11.11.2016\].
 
-[^54]: Reto Mantz: Open Access-Lizenzen und Rechtsübertragung bei Open
+[^54]: Reto Mantz: Open Access-Lizenzen und Rechtsübertragung bei Open
     Access-Werken. In: Gerald Spindler (Hg.): Rechtliche
     Rahmenbedingungen von Open Access-Publikationen, Göttinger Schriften
     zur Internetforschung. Band 2. Göttingen: Universitätsverlag 2006,
