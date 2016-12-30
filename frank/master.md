@@ -31,9 +31,7 @@ Zitationen und Material aus Archivquellen wird Transklusion eingesetzt. Durch
 typisierte Links können Provenienz von Primär- und Sekundärquellen annotiert
 werden.
 
-![Diagramm der Verlinkung und Transklusion der Forschungsliteratur für den
-Hypertext-Arbeitsplatzes eines Historikers (ursprünglich in Nelson, 1965) (aus
-Nelson u. a., 2007)](img/abb1.png)
+![Diagramm der Verlinkung und Transklusion der Forschungsliteratur für den Hypertext-Arbeitsplatzes eines Historikers (ursprünglich in Nelson, 1965) (aus Nelson u. a., 2007)](img/abb1.png)
 
 Die Idee ist nun, durch schrittweise Umsetzung (Hodel, 2013) teilweise alter
 bibliotheks- und informationswissenschaftlicher Ansätze einen modernen
@@ -49,12 +47,10 @@ umfasst[^1]. Um das zu bewerkstelligen, ist insbesondere das Problem der
 Modellierung der Granularität und Provenienz von Dokumenten zu lösen. Das
 Problem erstreckt sich über mehrere Ebenen:
 
--   Textebene – Aufbereitung und Annotation natürlicher Sprache (NIF
-(Hellmann u. a., 2013), NAF (Fokkens u. a., 2014), etc.))
+-   Textebene – Aufbereitung und Annotation natürlicher Sprache (NIF (Hellmann u. a., 2013), NAF (Fokkens u. a., 2014), etc.))
 -   Dokumentebene – Modellierung der Dokumentstruktur (TEI, METS/ALTO, etc.) und
 -   bibliographische und archivarische Metadaten (z. B. MARC, FRBR und EAD)
--   Ontologieebene – Informationsintegration (CRM, SKOS, SEM/GAF (Fokkens
-u. a., 2014), etc.)
+-   Ontologieebene – Informationsintegration (CRM, SKOS, SEM/GAF (Fokkens u. a., 2014), etc.)
 
 Idealerweise sollte eine Lösung eine Art ontologischer Hypertext sein (siehe
 auch Nurmikko- Fuller u. a., 2015), über den die bibliographischen Daten von
@@ -62,9 +58,9 @@ Publikationen und Metadaten von Dokumenten bereitgestellt werden können und
 der die Transklusion von Inhalten von Dokumenten zur Nachnutzung (zum Beispiel
 Zitation) erlaubt. Im Kontext des WWW, deren Hypertext-Konzept die
 angesprochenen Probleme nicht zu berücksichtigen vermag, äußert sich Ted
-Nelson in einem anderen Interview wie folgt: “We are using a degenerate form
+Nelson in einem anderen Interview wie folgt: "We are using a degenerate form
 of itv\[Hypertext\] that has been standardised by people who, I think, do not
-understand the real problems.” (Nelson, 2001)
+understand the real problems." (Nelson, 2001)
 
 Der Bibliothekskatalog bildet den Zugang zu einer Forschungsinfrastruktur zur
 Bereitstellung der bibliographischen Daten als Linked Open Data inklusive
@@ -81,8 +77,7 @@ Denkwerkzeugs für Geisteswissenschaftler im Sinne von J.C.R. Licklider (1965)
 gemäß des Intelligence-Augmentation-Ansatzes (Rheingold, 2000) realisiert
 werden (Sumner und Shum, 1998).
 
-![Handgezeichnete Skizze der Struktur des semantischen
-Zusammenhangs des wissenschaftlichen Diskurses in der Forschungsliteratur (aus Buckingham Shum u.a., 2007)](img/abb2.png)
+![Handgezeichnete Skizze der Struktur des semantischen Zusammenhangs des wissenschaftlichen Diskurses in der Forschungsliteratur (aus Buckingham Shum u.a., 2007)](img/abb2.png)
 
 Dazu kann auf alte Ansätze zum Dialogue Mapping und Argument Mapping aus der
 Informationswissenschaft (Conklin und Begeman, 1988, 1989; Conklin u. a.,
@@ -112,8 +107,8 @@ Die Notwendigkeit, beim Formalisierungsansatz explizit werden zu müssen, führt
 die Geisteswissenschaftler außerdem zu formalen Modellen, die nicht nur die
 Grundlage für gemeinsames Forschen mit anderen Wissenschaftlern bildet (vgl.
 Piotrowski, 2016), sondern mittels eines entsprechenden Hypertext-Werkzeugs
-quasi auch als Dialogpartner im kreativen Schaffensprozess dient: „Hypertext
-kann eine Mittelposition \[zwischen lebendigem Dialog und geschriebenem Text\] einnehmen.“
+quasi auch als Dialogpartner im kreativen Schaffensprozess dient: "Hypertext
+kann eine Mittelposition \[zwischen lebendigem Dialog und geschriebenem Text\] einnehmen."
 (Hammwöhner, 1997, S. 72 ff.)
 
 Um auch auf einen alten Beitrag aus der Informatik zu verweisen, möchte ich
@@ -141,11 +136,11 @@ grundlegenden Funktionen zur Verfügung:
 -   Verlinkung von Entitäten (Personen, Organisationen, Orte, Ereignisse) mit Normdaten (GND, VIAF, ORCID)
 -   Verlinkung auf Publikationen oder auch Forschungsdaten als empirische Belege in Dialogue und Argument Mapping (z. B. über IBIS Reference-Element)
 
-### Post-Digital Humanities – Tools, not Toys!
+### Post-Digital Humanities -- Tools, not Toys!
 
-Piotrowski (2016) definiert Digital Humanities wie folgt: „The digital
+Piotrowski (2016) definiert Digital Humanities wie folgt: "The digital
 humanities study the means and methods of constructing formal models in the
-humanities.” Ein Modell als Repräsentation eines geisteswissenschaftlichen
+humanities." Ein Modell als Repräsentation eines geisteswissenschaftlichen
 Untersuchungsgegenstands zu verstehen und formal bedeutet soviel wie logisch
 kohärent, nicht mehrdeutig und explizit. Weil Text im
 geisteswissenschaftlichen Bereich als Daten behandelt werden muss (Fleer,
@@ -162,9 +157,9 @@ Beschreibung, die erstmal nicht automatisch computergestützt
 weiterverarbeitet werden kann und darüber hinaus womöglich nicht logisch
 kohärent, sondern mehrdeutig und vage ist. Das ist dann auch nicht unbedingt
 redliche Geistes- bzw. Geschichtswissenschaft, denn wie es so schön treffend
-im Rückentext von Lothar Kolmer (2008) heißt: „Wer sich nicht von der
+im Rückentext von Lothar Kolmer (2008) heißt: "Wer sich nicht von der
 Beredsamkeit der Historiker blenden lassen will, muss das Gerüst entdecken
-können, das ihre Erzählungen trägt.“
+können, das ihre Erzählungen trägt."
 
 Die zuvor vorgestellten Hypertext-Werkzeuge passen sehr gut in dieses Bild und
 sollen im Rahmen von Post-Digital-Humanities-Projekten die formale
@@ -192,14 +187,11 @@ Annotationswerkzeuge mit grafischer Benutzeroberfläche, die sehr viel
 Usability Engineering bei der Entwicklung erfordern. Hier sei passenderweise
 kurz auf die Ankündigung von Ted Nelsons Vortrag Computers, Creativity, and
 the Nature of the Written Word am 27. Januar 1965 im Vassar College verwiesen
-(siehe Barnet, 2013, S. 73): „whole new attitudes will be needed, and liberal-
+(siehe Barnet, 2013, S. 73): "whole new attitudes will be needed, and liberal-
 arts personages will have to learn to program, before computers can make their
-real contribution to civilization.”
+real contribution to civilization."
 
-Mit einem programmiersprachlichen Ansatz dürfte auch der Dialog mit sich
-selbst (wie oben schon erwähnt) fließender und damit ungestörter vonstatten gehen. 
-Zemanek (1966, S. 141) beschreibt Programmiersprachen als Werkzeug zur Formalisierung
-und Kommunikation mit sich selbst:
+Mit einem programmiersprachlichen Ansatz dürfte auch der Dialog mit sich selbst (wie oben schon erwähnt) fließender und damit ungestörter vonstatten gehen.  Zemanek (1966, S. 141) beschreibt Programmiersprachen als Werkzeug zur Formalisierung und Kommunikation mit sich selbst:
 
 > The language is the carrier and the implementation of ideas; since it is
 > very hard to handle ideas in an abstract form, the language is an important
