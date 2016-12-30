@@ -1,0 +1,2 @@
+---
+**Ben Kaden** ist Mitherausgeber des Journals LIBREAS. Library Ideas und arbeitet als wissenschaftlicher Mitarbeiter an der Universitätsbibliothek der Humboldt-Universität zu Berlin.
