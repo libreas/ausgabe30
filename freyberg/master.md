@@ -44,7 +44,7 @@ kann.
 
 Die Ausgabe 1/ 2015 der Zeitschrift fragt nun "What underli~~n~~es
 Information?" und beinhaltet unter anderem Artikel zum Entwurf einer
-Philosophie der Information des Chinesen Um Lei Tung , sowie zu Peirce
+Philosophie der Information des Chinesen Wu Kun sowie zu Peirce
 und Spencer Brown. Die acht Kurzartikel zum Informationsbegriff in der
 Bibliotheks- und Informationswissenschaft wurden von den
 Thellefsen-Brüdern (Torkild und Martin) sowie Bent Sørensen, die auch
